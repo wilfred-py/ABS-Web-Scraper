@@ -1,1 +1,26 @@
-{}
+{
+    "Mortgage and rent": {
+        "Median weekly rent (a)": {
+            "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
+            "Value": [
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>"
+            ]
+        },
+        "Median monthly mortgage repayments": {
+            "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
+            "Value": [
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>"
+            ]
+        }
+    }
+}

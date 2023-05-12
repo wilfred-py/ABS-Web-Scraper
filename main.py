@@ -84,13 +84,32 @@ for table in main_tables:
         # print(f"Row Heading: {stripped_row_tags}")
 
     print(row_headings_list)
-    print("*********Next Table Heading*********")
-    # main_table_dict[stripped_heading] = row_headings_dict
 
+    # Create nested dictionary for current table in for loop
+    main_table_dict = {stripped_heading: {}}
+    for heading in row_headings_list:
+        data_dict = {
+            "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
+            "Value": [
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+                "<td></td>",
+            ],
+        }
+
+        main_table_dict[stripped_heading][heading] = data_dict
+
+    print("*********Next Table Heading*********")
+
+
+print(main_table_dict)
 
 # print(row_headings_list)
-with open(f"main_data_{suburb}.json", "w") as f:
-    json.dump(main_table_dict, f)
+# with open(f"main_data_{suburb}.json", "w") as f:
+#     json.dump(main_table_dict, f)
 
 # ISSUE: for loop is overriding all ROW headings except last heading
 #        before moving onto the next TABLE heading
