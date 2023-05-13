@@ -17,95 +17,39 @@
     },
 
     "main_table": {
-            "Age": {
-                "Median age": {
-                    "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                    "Value": [1635, 25.3, 619542, 25.9, 2370742, 25.6]
-                },
-                "0-4 years": {
-                    "Geography":["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                    "Value": [997, 5.9, 375900, 5.8, 1463817, 5.8]
-                }
+        "Age": {
+            "Median age": {
+                "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
+                "Value": [1635, 25.3, 619542, 25.9, 2370742, 25.6]
             },
-            "Registered marital status": {
-                "Married": {
-                    "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                    "Value": [7066, 51.1, 2496618, 46.8, 9665708, 46.5]
-                },
-                "Separated": {
-                    "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                    "Value": [327, 2.4, 163443, 3.1, 674590, 3.2]
-                }   
-            }, 
-
-
-
-            
-            "Name of Table": {
-                "Row Headings": {
-                    "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                    "Value": ["<td></td>", "<td></td>" , "<td></td>" , "<td></td>", "<td></td>", "<td></td>"]
-                }
+            "0-4 years": {
+                "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
+                "Value": [997, 5.9, 375900, 5.8, 1463817, 5.8]
             }
         },
-    
-
-        "People": {
-            "Male": {
+        "Registered marital status": {
+            "Married": {
                 "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                "Value": ["<td></td>", "<td></td>" , "<td></td>" , "<td></td>", "<td></td>", "<td></td>"]
+                "Value": [7066, 51.1, 2496618, 46.8, 9665708, 46.5]
             },
-            "Female": {
+            "Separated": {
                 "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-                "Value": ["<td></td>", "<td></td>" , "<td></td>" , "<td></td>", "<td></td>", "<td></td>"]
+                "Value": [327, 2.4, 163443, 3.1, 674590, 3.2]
+            }
+        },
+
+        "Name of Table": {
+            "Row Headings": {
+                "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
+                "Value": [
+                    "<td></td>",
+                    "<td></td>",
+                    "<td></td>",
+                    "<td></td>",
+                    "<td></td>",
+                    "<td></td>"
+                ]
             }
         }
-
-
-    
-        {
-            "People": {},
-            "Indigenous status": {},
-            "Age": {},
-            "Registered marital status": {},
-            "Social marital status": {},
-            "Type of educational institution attending": {},
-            "Level of highest educational attainment": {},
-            "Ancestry, top responses": {},
-            "Country of birth, top responses": {},
-            "Country of birth of parents": {},
-            "Country of birth of father, top stated responses": {},
-            "Country of birth of mother, top stated responses": {},
-            "Religious affiliation, top responses": {},
-            "Language used at home, top responses (other than English)": {},
-            "Participation in the labour force": {},
-            "Employment status": {},
-            "Employment, hours worked": {},
-            "Occupation, top responses": {},
-            "Industry of employment, top responses": {},
-            "Median weekly incomes (a)": {},
-            "Method of travel to work on the day of the Census, top responses": {},
-            "Unpaid work and care": {},
-            "Unpaid domestic work, number of hours": {},
-            "Type of long-term health condition": {},
-            "Count of selected long-term health conditions": {},
-            "Australian Defence Force Service": {},
-            "Family composition": {},
-            "Single (or lone) parents": {},
-            "Employment status of couple families": {},
-            "Dwelling count": {},
-            "Dwelling structure": {},
-            "Number of bedrooms": {},
-            "Number of registered motor vehicles": {},
-            "Household composition": {},
-            "Tenure type": {},
-            "Household income": {},
-            "Rent weekly payments": {},
-            "Mortgage monthly repayments": {},
-            "People characteristics": {},
-            "Dwelling characteristics": {},
-            "Mortgage and rent": {}
-        }
     }
-    
 }

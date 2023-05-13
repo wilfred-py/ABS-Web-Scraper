@@ -56,9 +56,8 @@ main_tables = soup.find_all(class_="qsTable")
 
 row_headings_dict = {}
 main_table_dict = {}
-
-
-test_tuple = ("People", "()", "")
+table_headings_list = []
+row_headings_list = []
 
 for table in main_tables:
     # Table Headings
@@ -67,13 +66,14 @@ for table in main_tables:
     th_tags_split_one = th_tags_string.split(">")
     th_tags_split_two = th_tags_split_one[1].split("<")
     stripped_heading = th_tags_split_two[0].strip()
-    # print(f"Table Heading: {stripped_heading}")
+    table_headings_list.append(stripped_heading)
 
     # Row Headings
+
+    # Use BS4 to find all rows
     row_tags = table.find_all(class_="firstCol", scope="row")
 
-    row_headings_list = []
-
+    # For Loop to split and strip row tags into text and append to list
     for row in row_tags:
         row_tags_string = str(row)
         row_tags_split_one = row_tags_string.split(">")
@@ -81,79 +81,21 @@ for table in main_tables:
         stripped_row_tags = row_tags_split_two[0].strip()
         row_headings_list.append(stripped_row_tags)
 
-        # print(f"Row Heading: {stripped_row_tags}")
-
-    print(row_headings_list)
-
-    # Create nested dictionary for current table in for loop
-    main_table_dict = {stripped_heading: {}}
-    for heading in row_headings_list:
-        data_dict = {
-            "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-            "Value": [
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-            ],
-        }
-
-        main_table_dict[stripped_heading][heading] = data_dict
+    for row_heading in row_headings_list:
+        if stripped_heading not in main_table_dict:
+            main_table_dict.update({row_heading: {"Geography": [], "Value": []}})
+        else:
+            main_table_dict[stripped_heading][row_heading] = {
+                "Geography": [],
+                "Value": [],
+            }
 
     print("*********Next Table Heading*********")
 
-
+print(table_headings_list)
+print(row_headings_list)
 print(main_table_dict)
 
-# print(row_headings_list)
-# with open(f"main_data_{suburb}.json", "w") as f:
-#     json.dump(main_table_dict, f)
 
-# ISSUE: for loop is overriding all ROW headings except last heading
-#        before moving onto the next TABLE heading
-
-# Dictionary comprehension to loop over all row tags and create a dictionary
-# row_headins_dicct = {heading: {} for heading in row_headings_list}
-
-
-# main_table_dict[stripped_heading] = {stripped_row_tags: {}}
-# row_headings_list.append({stripped_heading: stripped_row_tags})
-
-{
-    "People": {
-        "Male": {
-            "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-            "Value": [
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-            ],
-        },
-        "Female": {
-            "Geography": ["Suburb", "%", "Victoria", "%", "Australia", "%"],
-            "Value": [
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-                "<td></td>",
-            ],
-        },
-    },
-    "Indigenous Status": {
-        "Aboriginal and/or Torres Strait Islander": {
-            "Geography": [],
-            "Value": [],
-        },
-        "Non-Indigenous": {
-            "Geography": [],
-            "Value": [],
-        },
-    },
-}
+with open(f"main_data_{suburb}.json", "w") as f:
+    json.dump(main_table_dict, f)
