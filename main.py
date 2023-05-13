@@ -10,6 +10,7 @@ json_data = {}
 
 # ABS URL
 abs_url = "https://www.abs.gov.au/census/find-census-data/quickstats/2021/211041270"
+# abs_url_2 = "https://www.abs.gov.au/census/find-census-data/quickstats/2021/212021293"
 
 # Send HTTP GET request to the URL
 response = requests.get(abs_url)
@@ -54,25 +55,24 @@ with open(f"summary_data_{suburb}.json", "w") as f:
 ##################### MAIN TABLES #####################
 main_tables = soup.find_all(class_="qsTable")
 
-row_headings_dict = {}
 main_table_dict = {}
-table_headings_list = []
-row_headings_list = []
+
 
 for table in main_tables:
+    row_data = []
     # Table Headings
+    # Use BS4 to find all table headings
     th_tags = table.find(class_="firstCol topRow")
     th_tags_string = str(th_tags)
     th_tags_split_one = th_tags_string.split(">")
     th_tags_split_two = th_tags_split_one[1].split("<")
-    stripped_heading = th_tags_split_two[0].strip()
-    table_headings_list.append(stripped_heading)
+    table_name = th_tags_split_two[0].strip()
+    print(table_name)
 
     # Row Headings
-
     # Use BS4 to find all rows
     row_tags = table.find_all(class_="firstCol", scope="row")
-
+    row_headings_list = []
     # For Loop to split and strip row tags into text and append to list
     for row in row_tags:
         row_tags_string = str(row)
@@ -81,20 +81,21 @@ for table in main_tables:
         stripped_row_tags = row_tags_split_two[0].strip()
         row_headings_list.append(stripped_row_tags)
 
+    print(row_headings_list)
+
     for row_heading in row_headings_list:
-        if stripped_heading not in main_table_dict:
+        if table_name not in main_table_dict:
             main_table_dict.update({row_heading: {"Geography": [], "Value": []}})
         else:
-            main_table_dict[stripped_heading][row_heading] = {
+            main_table_dict[table_name][row_heading] = {
                 "Geography": [],
                 "Value": [],
             }
 
     print("*********Next Table Heading*********")
 
-print(table_headings_list)
-print(row_headings_list)
-print(main_table_dict)
+
+# print(main_table_dict)
 
 
 with open(f"main_data_{suburb}.json", "w") as f:

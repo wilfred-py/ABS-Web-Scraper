@@ -1,0 +1,280 @@
+{
+    "Male": { "Geography": [], "Value": [] },
+    "Female": { "Geography": [], "Value": [] },
+    "Aboriginal and/or Torres Strait Islander": {
+        "Geography": [],
+        "Value": []
+    },
+    "Non-Indigenous": { "Geography": [], "Value": [] },
+    "Indigenous status not stated": { "Geography": [], "Value": [] },
+    "Median age": { "Geography": [], "Value": [] },
+    "0-4 years": { "Geography": [], "Value": [] },
+    "5-9 years": { "Geography": [], "Value": [] },
+    "10-14 years": { "Geography": [], "Value": [] },
+    "15-19 years": { "Geography": [], "Value": [] },
+    "20-24 years": { "Geography": [], "Value": [] },
+    "25-29 years": { "Geography": [], "Value": [] },
+    "30-34 years": { "Geography": [], "Value": [] },
+    "35-39 years": { "Geography": [], "Value": [] },
+    "40-44 years": { "Geography": [], "Value": [] },
+    "45-49 years": { "Geography": [], "Value": [] },
+    "50-54 years": { "Geography": [], "Value": [] },
+    "55-59 years": { "Geography": [], "Value": [] },
+    "60-64 years": { "Geography": [], "Value": [] },
+    "65-69 years": { "Geography": [], "Value": [] },
+    "70-74 years": { "Geography": [], "Value": [] },
+    "75-79 years": { "Geography": [], "Value": [] },
+    "80-84 years": { "Geography": [], "Value": [] },
+    "85 years and over": { "Geography": [], "Value": [] },
+    "Married": { "Geography": [], "Value": [] },
+    "Separated": { "Geography": [], "Value": [] },
+    "Divorced": { "Geography": [], "Value": [] },
+    "Widowed": { "Geography": [], "Value": [] },
+    "Never married": { "Geography": [], "Value": [] },
+    "Registered marriage (a)": { "Geography": [], "Value": [] },
+    "De facto marriage (b)": { "Geography": [], "Value": [] },
+    "Not married": { "Geography": [], "Value": [] },
+    "Preschool": { "Geography": [], "Value": [] },
+    "Primary - Government": { "Geography": [], "Value": [] },
+    "Primary - Catholic": { "Geography": [], "Value": [] },
+    "Primary - other non-Government": { "Geography": [], "Value": [] },
+    "Primary total (a)": { "Geography": [], "Value": [] },
+    "Secondary - Government": { "Geography": [], "Value": [] },
+    "Secondary - Catholic": { "Geography": [], "Value": [] },
+    "Secondary - other non-Government": { "Geography": [], "Value": [] },
+    "Secondary total (b)": { "Geography": [], "Value": [] },
+    "Tertiary - Vocational education (including TAFE and private training providers)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Tertiary - University or other higher education": {
+        "Geography": [],
+        "Value": []
+    },
+    "Tertiary total (c)": { "Geography": [], "Value": [] },
+    "Other": { "Geography": [], "Value": [] },
+    "Not stated": { "Geography": [], "Value": [] },
+    "Bachelor Degree level and above": { "Geography": [], "Value": [] },
+    "Advanced Diploma and Diploma level": { "Geography": [], "Value": [] },
+    "Certificate level IV": { "Geography": [], "Value": [] },
+    "Certificate level III": { "Geography": [], "Value": [] },
+    "Year 12": { "Geography": [], "Value": [] },
+    "Year 11": { "Geography": [], "Value": [] },
+    "Year 10": { "Geography": [], "Value": [] },
+    "Certificate level II": { "Geography": [], "Value": [] },
+    "Certificate level I": { "Geography": [], "Value": [] },
+    "Year 9 or below": { "Geography": [], "Value": [] },
+    "Inadequately described": { "Geography": [], "Value": [] },
+    "No educational attainment": { "Geography": [], "Value": [] },
+    "English": { "Geography": [], "Value": [] },
+    "Australian": { "Geography": [], "Value": [] },
+    "Irish": { "Geography": [], "Value": [] },
+    "Scottish": { "Geography": [], "Value": [] },
+    "Italian": { "Geography": [], "Value": [] },
+    "Australia": { "Geography": [], "Value": [] },
+    "England": { "Geography": [], "Value": [] },
+    "China (excludes SARs and Taiwan)": { "Geography": [], "Value": [] },
+    "India": { "Geography": [], "Value": [] },
+    "Sri Lanka": { "Geography": [], "Value": [] },
+    "New Zealand": { "Geography": [], "Value": [] },
+    "Both parents born overseas": { "Geography": [], "Value": [] },
+    "Father only born overseas": { "Geography": [], "Value": [] },
+    "Mother only born overseas": { "Geography": [], "Value": [] },
+    "Both parents born in Australia": { "Geography": [], "Value": [] },
+    "No Religion, so described": { "Geography": [], "Value": [] },
+    "Catholic": { "Geography": [], "Value": [] },
+    "Anglican": { "Geography": [], "Value": [] },
+    "Uniting Church": { "Geography": [], "Value": [] },
+    "Mandarin": { "Geography": [], "Value": [] },
+    "Sinhalese": { "Geography": [], "Value": [] },
+    "Spanish": { "Geography": [], "Value": [] },
+    "Hindi": { "Geography": [], "Value": [] },
+    "English only used at home": { "Geography": [], "Value": [] },
+    "Households where a non-English language is used": {
+        "Geography": [],
+        "Value": []
+    },
+    "In the labour force": { "Geography": [], "Value": [] },
+    "Not in the labour force": { "Geography": [], "Value": [] },
+    "Worked full-time": { "Geography": [], "Value": [] },
+    "Worked part-time": { "Geography": [], "Value": [] },
+    "Away from work (a)": { "Geography": [], "Value": [] },
+    "Unemployed": { "Geography": [], "Value": [] },
+    "0 hours (away from work)": { "Geography": [], "Value": [] },
+    "1-19 hours": { "Geography": [], "Value": [] },
+    "20-29 hours": { "Geography": [], "Value": [] },
+    "30-34 hours": { "Geography": [], "Value": [] },
+    "35-39 hours": { "Geography": [], "Value": [] },
+    "40-44 hours": { "Geography": [], "Value": [] },
+    "45 hours or more": { "Geography": [], "Value": [] },
+    "Professionals": { "Geography": [], "Value": [] },
+    "Managers": { "Geography": [], "Value": [] },
+    "Clerical and Administrative Workers": { "Geography": [], "Value": [] },
+    "Technicians and Trades Workers": { "Geography": [], "Value": [] },
+    "Community and Personal Service Workers": { "Geography": [], "Value": [] },
+    "Sales Workers": { "Geography": [], "Value": [] },
+    "Labourers": { "Geography": [], "Value": [] },
+    "Machinery Operators and Drivers": { "Geography": [], "Value": [] },
+    "Hospitals (except Psychiatric Hospitals)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Primary Education": { "Geography": [], "Value": [] },
+    "Takeaway Food Services": { "Geography": [], "Value": [] },
+    "Supermarket and Grocery Stores": { "Geography": [], "Value": [] },
+    "Secondary Education": { "Geography": [], "Value": [] },
+    "Personal (b)": { "Geography": [], "Value": [] },
+    "Family (c)": { "Geography": [], "Value": [] },
+    "Household (d)": { "Geography": [], "Value": [] },
+    "Car, as driver": { "Geography": [], "Value": [] },
+    "Car, as passenger": { "Geography": [], "Value": [] },
+    "Train": { "Geography": [], "Value": [] },
+    "Walked only": { "Geography": [], "Value": [] },
+    "Truck": { "Geography": [], "Value": [] },
+    "Did not go to work": { "Geography": [], "Value": [] },
+    "Worked at home": { "Geography": [], "Value": [] },
+    "People who travelled to work by public transport (a)": {
+        "Geography": [],
+        "Value": []
+    },
+    "People who travelled to work by car as driver or passenger (b)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Did unpaid domestic work (week before Census Night)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Provided unpaid care for child/children (during two weeks before Census Night)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Provided unpaid assistance to a person with a disability, health condition or due to old age (during two weeks before Census Night)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Did voluntary work through an organisation or group (last 12 months)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Less than 5 hours": { "Geography": [], "Value": [] },
+    "5 to 14 hours": { "Geography": [], "Value": [] },
+    "15 to 29 hours": { "Geography": [], "Value": [] },
+    "30 hours or more": { "Geography": [], "Value": [] },
+    "Arthritis": { "Geography": [], "Value": [] },
+    "Asthma": { "Geography": [], "Value": [] },
+    "Cancer (including remission)": { "Geography": [], "Value": [] },
+    "Dementia (including Alzheimer's)": { "Geography": [], "Value": [] },
+    "Diabetes (excluding gestational diabetes)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Heart disease (including heart attack or angina)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Kidney disease": { "Geography": [], "Value": [] },
+    "Lung condition (including COPD or emphysema)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Mental health condition (including depression or anxiety)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Stroke": { "Geography": [], "Value": [] },
+    "Any other long-term health condition(s)": { "Geography": [], "Value": [] },
+    "No long-term health condition(s)": { "Geography": [], "Value": [] },
+    "None of the selected conditions": { "Geography": [], "Value": [] },
+    "One condition": { "Geography": [], "Value": [] },
+    "Two conditions": { "Geography": [], "Value": [] },
+    "Three or more conditions": { "Geography": [], "Value": [] },
+    "Currently serving": { "Geography": [], "Value": [] },
+    "Previously served (and not currently serving)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Has never served": { "Geography": [], "Value": [] },
+    "Couple family without children": { "Geography": [], "Value": [] },
+    "Couple family with children": { "Geography": [], "Value": [] },
+    "One parent family": { "Geography": [], "Value": [] },
+    "Other family": { "Geography": [], "Value": [] },
+    "Both employed, worked full-time": { "Geography": [], "Value": [] },
+    "Both employed, worked part-time": { "Geography": [], "Value": [] },
+    "One employed full-time, one part-time": { "Geography": [], "Value": [] },
+    "One employed full-time, other not working": {
+        "Geography": [],
+        "Value": []
+    },
+    "One employed part-time, other not working": {
+        "Geography": [],
+        "Value": []
+    },
+    "Both not working": { "Geography": [], "Value": [] },
+    "Labour force status not stated": { "Geography": [], "Value": [] },
+    "Occupied private dwellings": { "Geography": [], "Value": [] },
+    "Unoccupied private dwellings": { "Geography": [], "Value": [] },
+    "Separate house": { "Geography": [], "Value": [] },
+    "Semi-detached, row or terrace house, townhouse etc": {
+        "Geography": [],
+        "Value": []
+    },
+    "Flat or apartment": { "Geography": [], "Value": [] },
+    "Other dwelling": { "Geography": [], "Value": [] },
+    "None (includes studio apartments or bedsitters)": {
+        "Geography": [],
+        "Value": []
+    },
+    "1 bedroom": { "Geography": [], "Value": [] },
+    "2 bedrooms": { "Geography": [], "Value": [] },
+    "3 bedrooms": { "Geography": [], "Value": [] },
+    "4 or more bedrooms": { "Geography": [], "Value": [] },
+    "Number of bedrooms not stated": { "Geography": [], "Value": [] },
+    "Average number of bedrooms per dwelling": { "Geography": [], "Value": [] },
+    "Average number of people per household": { "Geography": [], "Value": [] },
+    "None": { "Geography": [], "Value": [] },
+    "1 motor vehicle": { "Geography": [], "Value": [] },
+    "2 motor vehicles": { "Geography": [], "Value": [] },
+    "3 or more vehicles": { "Geography": [], "Value": [] },
+    "Number of motor vehicles not stated": { "Geography": [], "Value": [] },
+    "Family households": { "Geography": [], "Value": [] },
+    "Single (or lone) person households": { "Geography": [], "Value": [] },
+    "Group households": { "Geography": [], "Value": [] },
+    "Owned outright": { "Geography": [], "Value": [] },
+    "Owned with a mortgage (a)": { "Geography": [], "Value": [] },
+    "Rented (b)": { "Geography": [], "Value": [] },
+    "Other tenure type (c)": { "Geography": [], "Value": [] },
+    "Tenure type not stated": { "Geography": [], "Value": [] },
+    "Less than $650 total household weekly income (a)": {
+        "Geography": [],
+        "Value": []
+    },
+    "More than $3,000 total household weekly income (a)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Median rent (a)": { "Geography": [], "Value": [] },
+    "Renter households where rent payments are less than or equal to 30% of household income (b)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Renter households with rent payments greater than 30% of household income (b)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Unable to determine (c)": { "Geography": [], "Value": [] },
+    "Median mortgage repayments": { "Geography": [], "Value": [] },
+    "Owner with mortgage households where mortgage repayments are less than or equal to 30% of household income (a)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Owner with mortgage households with mortgage repayments greater than 30% of household income (a)": {
+        "Geography": [],
+        "Value": []
+    },
+    "Unable to determine (b)": { "Geography": [], "Value": [] },
+    "Average number of people per bedroom": { "Geography": [], "Value": [] },
+    "Median weekly household income (a)": { "Geography": [], "Value": [] },
+    "Median weekly rent (a)": { "Geography": [], "Value": [] },
+    "Median monthly mortgage repayments": { "Geography": [], "Value": [] }
+}
