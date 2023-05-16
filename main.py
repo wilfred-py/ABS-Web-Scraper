@@ -121,10 +121,13 @@ for table in main_tables:
     nested_dict[table_name_stripped] = {}
     for row_name in row_name_list:
         nested_dict[table_name_stripped][row_name] = {
-            "Geography": [suburb, "%", state, "%", "Australia", "%"],
-            "Value": [data_list],
+            suburb: "1",
+            "% of suburb": "2",
+            state: "3",
+            "% of state": "4",
+            "Australia": "5",
+            "% of country": "6",
         }
-
     main_table_dict.update(nested_dict)
 
     print("\n\n\n********* NEXT TABLE ********* \n\n\n")
