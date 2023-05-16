@@ -98,8 +98,6 @@ for table in main_tables:
         else:
             row_name_list.append(row_stripped)
 
-    # THIS IS THE SOURCE OF THE BUG
-    # IF THERE IS A BLANK, IT CAUSES THE COUNT TO BE WRONG
     num_table_rows = len(row_name_list)
 
     ### ROW DATA ###
@@ -118,118 +116,20 @@ for table in main_tables:
         f"TABLE NAME: {table_name_stripped} \n ROW NAMES: {row_name_list} \n NUMBER OF ROWS: {num_table_rows} \n LENGTH OF DATA LIST: {data_list_length} \n data : {data_list} \n\n\n"
     )
 
-    # BUG: if blank row is in the middle of a table, subsequent rows are not picked up
-
     # Create dictionary
+    nested_dict = {}
+    nested_dict[table_name_stripped] = {}
     for row_name in row_name_list:
-        if table_name_stripped not in main_table_dict:
-            main_table_dict.update(
-                {
-                    row_name: {
-                        "Geography": [suburb, "%", state, "%", "Australia", "%"],
-                        "Value": [data_list],
-                    }
-                }
-            )
-        else:
-            main_table_dict[table_name][row_name]
+        nested_dict[table_name_stripped][row_name] = {
+            "Geography": [suburb, "%", state, "%", "Australia", "%"],
+            "Value": [data_list],
+        }
+
+    main_table_dict.update(nested_dict)
 
     print("\n\n\n********* NEXT TABLE ********* \n\n\n")
 
+
+# Create main_data_suburb.json
 with open(f"main_data_{suburb}.json", "w") as f:
     json.dump(main_table_dict, f)
-
-
-# for row_heading in row_headings_list:
-#     if table_name not in main_table_dict:
-#         main_table_dict.update({row_heading: {"Geography": [], "Value": []}})
-#     else:
-#         main_table_dict[table_name][row_heading] = {
-#             "Geography": [],
-#             "Value": [],
-#         }
-
-
-# for table in main_tables:
-#     # Table Names
-#     # Use BS4 to find all table names
-#     th_tags = table.find(class_="firstCol topRow")
-#     th_tags_string = str(th_tags)
-#     th_tags_split_one = th_tags_string.split(">")
-#     th_tags_split_two = th_tags_split_one[1].split("<")
-#     table_name = th_tags_split_two[0].strip()
-#     print(f"Table name is: {table_name}")
-
-#     # Row Headings
-#     # Use BS4 to find all rows within the iterated table
-#     rows = table.find_all(class_="firstCol", scope="row")
-
-#     # Initialise blank list for row headings after each loop through main_tables
-#     row_headings_list = []
-
-#     # For Loop to split and strip row tags into text and append to a list
-#     # List of row headings will allow us to create a nested dictionary
-#     for row in rows:
-#         row_tags_string = str(row)
-#         row_tags_split_one = row_tags_string.split(">")
-#         row_tags_split_two = row_tags_split_one[1].split("<")
-#         stripped_row_tags = row_tags_split_two[0].strip()
-#         row_headings_list.append(tags)
-
-#         print(f"rowheadings_list: {row_headings_list}")
-#         # For Loop to iterate over each row and handle data
-
-#         # row_headings_list = ["Median weekly rent (a)"]
-
-#         for row_heading in row_headings_list:
-#             # Use BS4 to find data points within current row
-
-#             # find_all(name, attributes, recursive, string, limit, **kwargs)
-#             data_tags = table.find_all("td")
-
-#             for data in data_tags:
-#                 data_tags_string = str(data)
-#                 data_tags_split_one = data_tags_string.split(">")
-#                 data_tags_split_two = data_tags_split_one[1].split("<")
-#                 stripped_data_tags = data_tags_split_two[0].strip()
-#                 data_list.append(stripped_data_tags)
-#                 print(f"data_list: {data_list}")
-
-#             # print(f"row heading: {row_heading} \n data list: {data_list}")
-#             data_list = []
-#             # print(f"data for {row_heading}: {stripped_data_tags}")
-#             # print(f"data_list is {data_list}")
-#             # print("\n Next Row loop")
-
-#         print("\n NEXT ROW LOOP \n")
-#     #     data_string = str(data)
-#     #     data_tags_split_one = data_string.split(">")
-#     #     data_tags_split_two = data_tags_split_one[1].split("<")
-#     #     stripped_data_tags = data_tags_split_two[0].strip()
-#     #     print(stripped_data_tags)
-#     #     row_data.append(stripped_data_tags)
-
-#     # print(f"{stripped_row_tags}: {row_data}")
-
-#     # Add data values to main_table_dict[table_name][row_heading][Value]
-
-#     # print(f"{stripped_row_tags}: {row_data}")
-#     # print("\n ***Next Row Heading*** \n")
-
-#     # for row_heading in row_headings_list:
-#     #     if table_name not in main_table_dict:
-#     #         main_table_dict.update({row_heading: {"Geography": [], "Value": []}})
-#     #     else:
-#     #         main_table_dict[table_name][row_heading] = {
-#     #             "Geography": [],
-#     #             "Value": [],
-#     #         }
-
-#     print("\n\n\n*********Next Table Heading*********")
-
-
-# print(main_table_dict)
-
-
-# with open(f"main_data_{suburb}.json", "w") as f:
-#     json.dump(main_table_dict, f)
