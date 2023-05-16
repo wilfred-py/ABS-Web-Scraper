@@ -1,16 +1,16 @@
 {
     "People": {
         "Male": {
-            "Mitcham (Vic.)": "8,126",
-            "% of suburb": "48.4",
+            "Berwick - North": "10,858",
+            "% of suburb": "47.3",
             "Victoria": "3,200,963",
             "% of state": "49.2",
             "Australia": "12,545,154",
             "% of country": "49.3"
         },
         "Female": {
-            "Mitcham (Vic.)": "8,667",
-            "% of suburb": "51.6",
+            "Berwick - North": "12,102",
+            "% of suburb": "52.7",
             "Victoria": "3,302,528",
             "% of state": "50.8",
             "Australia": "12,877,635",
@@ -19,7 +19,7 @@
     },
     "Indigenous status": {
         "Aboriginal and/or Torres Strait Islander": {
-            "Mitcham (Vic.)": "67",
+            "Berwick - North": "95",
             "% of suburb": "0.4",
             "Victoria": "65,646",
             "% of state": "1.0",
@@ -27,16 +27,16 @@
             "% of country": "3.2"
         },
         "Non-Indigenous": {
-            "Mitcham (Vic.)": "16,390",
-            "% of suburb": "97.6",
+            "Berwick - North": "22,041",
+            "% of suburb": "96.0",
             "Victoria": "6,148,188",
             "% of state": "94.5",
             "Australia": "23,375,949",
             "% of country": "91.9"
         },
         "Indigenous status not stated": {
-            "Mitcham (Vic.)": "338",
-            "% of suburb": "2.0",
+            "Berwick - North": "825",
+            "% of suburb": "3.6",
             "Victoria": "289,665",
             "% of state": "4.5",
             "Australia": "1,234,112",
@@ -45,7 +45,7 @@
     },
     "Age": {
         "Median age": {
-            "Mitcham (Vic.)": "39",
+            "Berwick - North": "43",
             "% of suburb": "N/A",
             "Victoria": "38",
             "% of state": "N/A",
@@ -53,144 +53,144 @@
             "% of country": "N/A"
         },
         "0-4 years": {
-            "Mitcham (Vic.)": "997",
-            "% of suburb": "5.9",
+            "Berwick - North": "1,052",
+            "% of suburb": "4.6",
             "Victoria": "375,900",
             "% of state": "5.8",
             "Australia": "1,463,817",
             "% of country": "5.8"
         },
         "5-9 years": {
-            "Mitcham (Vic.)": "1,043",
-            "% of suburb": "6.2",
+            "Berwick - North": "1,331",
+            "% of suburb": "5.8",
             "Victoria": "402,168",
             "% of state": "6.2",
             "Australia": "1,586,138",
             "% of country": "6.2"
         },
         "10-14 years": {
-            "Mitcham (Vic.)": "940",
-            "% of suburb": "5.6",
+            "Berwick - North": "1,439",
+            "% of suburb": "6.3",
             "Victoria": "391,388",
             "% of state": "6.0",
             "Australia": "1,588,051",
             "% of country": "6.2"
         },
         "15-19 years": {
-            "Mitcham (Vic.)": "874",
-            "% of suburb": "5.2",
+            "Berwick - North": "1,425",
+            "% of suburb": "6.2",
             "Victoria": "363,201",
             "% of state": "5.6",
             "Australia": "1,457,812",
             "% of country": "5.7"
         },
         "20-24 years": {
-            "Mitcham (Vic.)": "986",
-            "% of suburb": "5.9",
+            "Berwick - North": "1,394",
+            "% of suburb": "6.1",
             "Victoria": "410,337",
             "% of state": "6.3",
             "Australia": "1,579,539",
             "% of country": "6.2"
         },
         "25-29 years": {
-            "Mitcham (Vic.)": "1,079",
-            "% of suburb": "6.4",
+            "Berwick - North": "1,189",
+            "% of suburb": "5.2",
             "Victoria": "475,532",
             "% of state": "7.3",
             "Australia": "1,771,676",
             "% of country": "7.0"
         },
         "30-34 years": {
-            "Mitcham (Vic.)": "1,299",
-            "% of suburb": "7.7",
+            "Berwick - North": "1,195",
+            "% of suburb": "5.2",
             "Victoria": "499,959",
             "% of state": "7.7",
             "Australia": "1,853,085",
             "% of country": "7.3"
         },
         "35-39 years": {
-            "Mitcham (Vic.)": "1,453",
-            "% of suburb": "8.7",
+            "Berwick - North": "1,357",
+            "% of suburb": "5.9",
             "Victoria": "489,927",
             "% of state": "7.5",
             "Australia": "1,838,822",
             "% of country": "7.2"
         },
         "40-44 years": {
-            "Mitcham (Vic.)": "1,224",
-            "% of suburb": "7.3",
+            "Berwick - North": "1,446",
+            "% of suburb": "6.3",
             "Victoria": "428,808",
             "% of state": "6.6",
             "Australia": "1,648,843",
             "% of country": "6.5"
         },
         "45-49 years": {
-            "Mitcham (Vic.)": "1,178",
-            "% of suburb": "7.0",
+            "Berwick - North": "1,507",
+            "% of suburb": "6.6",
             "Victoria": "416,524",
             "% of state": "6.4",
             "Australia": "1,635,963",
             "% of country": "6.4"
         },
         "50-54 years": {
-            "Mitcham (Vic.)": "1,128",
-            "% of suburb": "6.7",
+            "Berwick - North": "1,690",
+            "% of suburb": "7.4",
             "Victoria": "410,360",
             "% of state": "6.3",
             "Australia": "1,610,944",
             "% of country": "6.3"
         },
         "55-59 years": {
-            "Mitcham (Vic.)": "1,011",
-            "% of suburb": "6.0",
+            "Berwick - North": "1,603",
+            "% of suburb": "7.0",
             "Victoria": "383,916",
             "% of state": "5.9",
             "Australia": "1,541,911",
             "% of country": "6.1"
         },
         "60-64 years": {
-            "Mitcham (Vic.)": "863",
-            "% of suburb": "5.1",
+            "Berwick - North": "1,415",
+            "% of suburb": "6.2",
             "Victoria": "362,634",
             "% of state": "5.6",
             "Australia": "1,468,097",
             "% of country": "5.8"
         },
         "65-69 years": {
-            "Mitcham (Vic.)": "812",
-            "% of suburb": "4.8",
+            "Berwick - North": "1,205",
+            "% of suburb": "5.2",
             "Victoria": "320,562",
             "% of state": "4.9",
             "Australia": "1,298,460",
             "% of country": "5.1"
         },
         "70-74 years": {
-            "Mitcham (Vic.)": "673",
-            "% of suburb": "4.0",
+            "Berwick - North": "1,079",
+            "% of suburb": "4.7",
             "Victoria": "285,000",
             "% of state": "4.4",
             "Australia": "1,160,768",
             "% of country": "4.6"
         },
         "75-79 years": {
-            "Mitcham (Vic.)": "517",
-            "% of suburb": "3.1",
+            "Berwick - North": "970",
+            "% of suburb": "4.2",
             "Victoria": "203,205",
             "% of state": "3.1",
             "Australia": "821,920",
             "% of country": "3.2"
         },
         "80-84 years": {
-            "Mitcham (Vic.)": "391",
-            "% of suburb": "2.3",
+            "Berwick - North": "818",
+            "% of suburb": "3.6",
             "Victoria": "141,601",
             "% of state": "2.2",
             "Australia": "554,598",
             "% of country": "2.2"
         },
         "85 years and over": {
-            "Mitcham (Vic.)": "326",
-            "% of suburb": "1.9",
+            "Berwick - North": "842",
+            "% of suburb": "3.7",
             "Victoria": "142,475",
             "% of state": "2.2",
             "Australia": "542,342",
@@ -199,40 +199,40 @@
     },
     "Registered marital status": {
         "Married": {
-            "Mitcham (Vic.)": "7,066",
-            "% of suburb": "51.1",
+            "Berwick - North": "10,065",
+            "% of suburb": "52.6",
             "Victoria": "2,496,618",
             "% of state": "46.8",
             "Australia": "9,665,708",
             "% of country": "46.5"
         },
         "Separated": {
-            "Mitcham (Vic.)": "327",
-            "% of suburb": "2.4",
+            "Berwick - North": "539",
+            "% of suburb": "2.8",
             "Victoria": "163,443",
             "% of state": "3.1",
             "Australia": "674,590",
             "% of country": "3.2"
         },
         "Divorced": {
-            "Mitcham (Vic.)": "1,094",
-            "% of suburb": "7.9",
+            "Berwick - North": "1,606",
+            "% of suburb": "8.4",
             "Victoria": "436,174",
             "% of state": "8.2",
             "Australia": "1,831,952",
             "% of country": "8.8"
         },
         "Widowed": {
-            "Mitcham (Vic.)": "605",
-            "% of suburb": "4.4",
+            "Berwick - North": "1,322",
+            "% of suburb": "6.9",
             "Victoria": "262,392",
             "% of state": "4.9",
             "Australia": "1,029,142",
             "% of country": "5.0"
         },
         "Never married": {
-            "Mitcham (Vic.)": "4,729",
-            "% of suburb": "34.2",
+            "Berwick - North": "5,606",
+            "% of suburb": "29.3",
             "Victoria": "1,975,412",
             "% of state": "37.0",
             "Australia": "7,583,393",
@@ -241,24 +241,24 @@
     },
     "Social marital status": {
         "Registered marriage (a)": {
-            "Mitcham (Vic.)": "6,682",
-            "% of suburb": "50.6",
+            "Berwick - North": "9,381",
+            "% of suburb": "53.0",
             "Victoria": "2,278,239",
             "% of state": "46.7",
             "Australia": "8,747,135",
             "% of country": "46.6"
         },
         "De facto marriage (b)": {
-            "Mitcham (Vic.)": "1,291",
-            "% of suburb": "9.8",
+            "Berwick - North": "1,503",
+            "% of suburb": "8.5",
             "Victoria": "544,957",
             "% of state": "11.2",
             "Australia": "2,168,351",
             "% of country": "11.5"
         },
         "Not married": {
-            "Mitcham (Vic.)": "5,242",
-            "% of suburb": "39.7",
+            "Berwick - North": "6,830",
+            "% of suburb": "38.6",
             "Victoria": "2,054,902",
             "% of state": "42.1",
             "Australia": "7,863,327",
@@ -267,15 +267,15 @@
     },
     "Type of educational institution attending": {
         "Preschool": {
-            "Mitcham (Vic.)": "418",
-            "% of suburb": "8.9",
+            "Berwick - North": "434",
+            "% of suburb": "6.7",
             "Victoria": "139,502",
             "% of state": "7.1",
             "Australia": "484,185",
             "% of country": "6.3"
         },
         "Primary": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -283,39 +283,39 @@
             "% of country": ""
         },
         "Primary - Government": {
-            "Mitcham (Vic.)": "1,086",
-            "% of suburb": "23.0",
+            "Berwick - North": "1,065",
+            "% of suburb": "16.4",
             "Victoria": "354,535",
             "% of state": "18.0",
             "Australia": "1,421,300",
             "% of country": "18.5"
         },
         "Primary - Catholic": {
-            "Mitcham (Vic.)": "180",
-            "% of suburb": "3.8",
+            "Berwick - North": "331",
+            "% of suburb": "5.1",
             "Victoria": "106,832",
             "% of state": "5.4",
             "Australia": "396,758",
             "% of country": "5.2"
         },
         "Primary - other non-Government": {
-            "Mitcham (Vic.)": "98",
-            "% of suburb": "2.1",
+            "Berwick - North": "393",
+            "% of suburb": "6.1",
             "Victoria": "58,184",
             "% of state": "3.0",
             "Australia": "254,043",
             "% of country": "3.3"
         },
         "Primary total (a)": {
-            "Mitcham (Vic.)": "1,369",
-            "% of suburb": "29.0",
+            "Berwick - North": "1,790",
+            "% of suburb": "27.6",
             "Victoria": "520,258",
             "% of state": "26.5",
             "Australia": "2,075,224",
             "% of country": "27.0"
         },
         "Secondary": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -323,15 +323,15 @@
             "% of country": ""
         },
         "Secondary - Government": {
-            "Mitcham (Vic.)": "629",
-            "% of suburb": "13.3",
+            "Berwick - North": "743",
+            "% of suburb": "11.5",
             "Victoria": "230,448",
             "% of state": "11.7",
             "Australia": "934,138",
             "% of country": "12.2"
         },
         "Secondary - Catholic": {
-            "Mitcham (Vic.)": "230",
+            "Berwick - North": "315",
             "% of suburb": "4.9",
             "Victoria": "96,560",
             "% of state": "4.9",
@@ -339,23 +339,23 @@
             "% of country": "4.8"
         },
         "Secondary - other non-Government": {
-            "Mitcham (Vic.)": "182",
-            "% of suburb": "3.9",
+            "Berwick - North": "553",
+            "% of suburb": "8.5",
             "Victoria": "84,706",
             "% of state": "4.3",
             "Australia": "322,314",
             "% of country": "4.2"
         },
         "Secondary total (b)": {
-            "Mitcham (Vic.)": "1,045",
-            "% of suburb": "22.1",
+            "Berwick - North": "1,613",
+            "% of suburb": "24.9",
             "Victoria": "412,219",
             "% of state": "21.0",
             "Australia": "1,629,624",
             "% of country": "21.2"
         },
         "Tertiary": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -363,40 +363,40 @@
             "% of country": ""
         },
         "Tertiary - Vocational education (including TAFE and private training providers)": {
-            "Mitcham (Vic.)": "408",
-            "% of suburb": "8.6",
+            "Berwick - North": "516",
+            "% of suburb": "8.0",
             "Victoria": "155,358",
             "% of state": "7.9",
             "Australia": "601,901",
             "% of country": "7.8"
         },
         "Tertiary - University or other higher education": {
-            "Mitcham (Vic.)": "899",
-            "% of suburb": "19.0",
+            "Berwick - North": "991",
+            "% of suburb": "15.3",
             "Victoria": "325,961",
             "% of state": "16.6",
             "Australia": "1,185,450",
             "% of country": "15.4"
         },
         "Tertiary total (c)": {
-            "Mitcham (Vic.)": "1,306",
-            "% of suburb": "27.7",
+            "Berwick - North": "1,508",
+            "% of suburb": "23.3",
             "Victoria": "482,005",
             "% of state": "24.5",
             "Australia": "1,789,994",
             "% of country": "23.3"
         },
         "Other": {
-            "Mitcham (Vic.)": "183",
-            "% of suburb": "3.9",
+            "Berwick - North": "187",
+            "% of suburb": "2.9",
             "Victoria": "70,054",
             "% of state": "3.6",
             "Australia": "242,821",
             "% of country": "3.2"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "403",
-            "% of suburb": "8.5",
+            "Berwick - North": "949",
+            "% of suburb": "14.6",
             "Victoria": "340,941",
             "% of state": "17.4",
             "Australia": "1,456,618",
@@ -405,104 +405,104 @@
     },
     "Level of highest educational attainment": {
         "Bachelor Degree level and above": {
-            "Mitcham (Vic.)": "5,806",
-            "% of suburb": "42.0",
+            "Berwick - North": "4,699",
+            "% of suburb": "24.6",
             "Victoria": "1,557,447",
             "% of state": "29.2",
             "Australia": "5,464,631",
             "% of country": "26.3"
         },
         "Advanced Diploma and Diploma level": {
-            "Mitcham (Vic.)": "1,441",
-            "% of suburb": "10.4",
+            "Berwick - North": "2,166",
+            "% of suburb": "11.3",
             "Victoria": "521,291",
             "% of state": "9.8",
             "Australia": "1,946,738",
             "% of country": "9.4"
         },
         "Certificate level IV": {
-            "Mitcham (Vic.)": "426",
-            "% of suburb": "3.1",
+            "Berwick - North": "733",
+            "% of suburb": "3.8",
             "Victoria": "179,000",
             "% of state": "3.4",
             "Australia": "719,425",
             "% of country": "3.5"
         },
         "Certificate level III": {
-            "Mitcham (Vic.)": "978",
-            "% of suburb": "7.1",
+            "Berwick - North": "2,431",
+            "% of suburb": "12.7",
             "Victoria": "580,494",
             "% of state": "10.9",
             "Australia": "2,617,766",
             "% of country": "12.6"
         },
         "Year 12": {
-            "Mitcham (Vic.)": "1,948",
-            "% of suburb": "14.1",
+            "Berwick - North": "2,976",
+            "% of suburb": "15.6",
             "Victoria": "797,281",
             "% of state": "14.9",
             "Australia": "3,104,116",
             "% of country": "14.9"
         },
         "Year 11": {
-            "Mitcham (Vic.)": "698",
-            "% of suburb": "5.1",
+            "Berwick - North": "1,304",
+            "% of suburb": "6.8",
             "Victoria": "304,927",
             "% of state": "5.7",
             "Australia": "958,803",
             "% of country": "4.6"
         },
         "Year 10": {
-            "Mitcham (Vic.)": "720",
-            "% of suburb": "5.2",
+            "Berwick - North": "1,601",
+            "% of suburb": "8.4",
             "Victoria": "389,680",
             "% of state": "7.3",
             "Australia": "2,086,306",
             "% of country": "10.0"
         },
         "Certificate level II": {
-            "Mitcham (Vic.)": "7",
-            "% of suburb": "0.1",
+            "Berwick - North": "7",
+            "% of suburb": "0.0",
             "Victoria": "3,250",
             "% of state": "0.1",
             "Australia": "13,687",
             "% of country": "0.1"
         },
         "Certificate level I": {
-            "Mitcham (Vic.)": "7",
-            "% of suburb": "0.1",
+            "Berwick - North": "0",
+            "% of suburb": "0.0",
             "Victoria": "647",
             "% of state": "0.0",
             "Australia": "2,614",
             "% of country": "0.0"
         },
         "Year 9 or below": {
-            "Mitcham (Vic.)": "832",
-            "% of suburb": "6.0",
+            "Berwick - North": "1,457",
+            "% of suburb": "7.6",
             "Victoria": "422,139",
             "% of state": "7.9",
             "Australia": "1,490,444",
             "% of country": "7.2"
         },
         "Inadequately described": {
-            "Mitcham (Vic.)": "275",
-            "% of suburb": "2.0",
+            "Berwick - North": "436",
+            "% of suburb": "2.3",
             "Victoria": "111,674",
             "% of state": "2.1",
             "Australia": "506,259",
             "% of country": "2.4"
         },
         "No educational attainment": {
-            "Mitcham (Vic.)": "123",
-            "% of suburb": "0.9",
+            "Berwick - North": "59",
+            "% of suburb": "0.3",
             "Victoria": "59,722",
             "% of state": "1.1",
             "Australia": "175,844",
             "% of country": "0.8"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "553",
-            "% of suburb": "4.0",
+            "Berwick - North": "1,263",
+            "% of suburb": "6.6",
             "Victoria": "406,049",
             "% of state": "7.6",
             "Australia": "1,694,773",
@@ -511,140 +511,140 @@
     },
     "Ancestry, top responses": {
         "English": {
-            "Mitcham (Vic.)": "4,893",
-            "% of suburb": "29.1",
+            "Berwick - North": "7,922",
+            "% of suburb": "34.5",
             "Victoria": "1,900,089",
             "% of state": "29.2",
             "Australia": "8,385,928",
             "% of country": "33.0"
         },
         "Australian": {
-            "Mitcham (Vic.)": "4,538",
-            "% of suburb": "27.0",
+            "Berwick - North": "6,821",
+            "% of suburb": "29.7",
             "Victoria": "1,770,726",
             "% of state": "27.2",
             "Australia": "7,596,753",
             "% of country": "29.9"
         },
-        "Chinese": {
-            "Mitcham (Vic.)": "3,166",
-            "% of suburb": "18.9",
-            "Victoria": "427,467",
-            "% of state": "6.6",
-            "Australia": "1,390,639",
-            "% of country": "5.5"
-        },
         "Irish": {
-            "Mitcham (Vic.)": "1,631",
-            "% of suburb": "9.7",
+            "Berwick - North": "2,287",
+            "% of suburb": "10.0",
             "Victoria": "611,788",
             "% of state": "9.4",
             "Australia": "2,410,833",
             "% of country": "9.5"
         },
         "Scottish": {
-            "Mitcham (Vic.)": "1,544",
-            "% of suburb": "9.2",
+            "Berwick - North": "2,223",
+            "% of suburb": "9.7",
             "Victoria": "534,459",
             "% of state": "8.2",
             "Australia": "2,176,777",
             "% of country": "8.6"
+        },
+        "Italian": {
+            "Berwick - North": "1,245",
+            "% of suburb": "5.4",
+            "Victoria": "384,688",
+            "% of state": "5.9",
+            "Australia": "1,108,364",
+            "% of country": "4.4"
         }
     },
     "Country of birth, top responses": {
         "Australia": {
-            "Mitcham (Vic.)": "10,785",
-            "% of suburb": "64.2",
+            "Berwick - North": "15,586",
+            "% of suburb": "67.9",
             "Victoria": "4,228,667",
             "% of state": "65.0",
             "Australia": "17,019,815",
             "% of country": "66.9"
         },
         "Other top responses:": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
             "Australia": "",
             "% of country": ""
         },
+        "England": {
+            "Berwick - North": "1,141",
+            "% of suburb": "5.0",
+            "Victoria": "174,552",
+            "% of state": "2.7",
+            "Australia": "927,490",
+            "% of country": "3.6"
+        },
         "China (excludes SARs and Taiwan)": {
-            "Mitcham (Vic.)": "1,324",
-            "% of suburb": "7.9",
+            "Berwick - North": "627",
+            "% of suburb": "2.7",
             "Victoria": "171,447",
             "% of state": "2.6",
             "Australia": "549,618",
             "% of country": "2.2"
         },
         "India": {
-            "Mitcham (Vic.)": "589",
-            "% of suburb": "3.5",
+            "Berwick - North": "605",
+            "% of suburb": "2.6",
             "Victoria": "258,193",
             "% of state": "4.0",
             "Australia": "673,352",
             "% of country": "2.6"
         },
-        "England": {
-            "Mitcham (Vic.)": "389",
-            "% of suburb": "2.3",
-            "Victoria": "174,552",
-            "% of state": "2.7",
-            "Australia": "927,490",
-            "% of country": "3.6"
-        },
-        "Malaysia": {
-            "Mitcham (Vic.)": "378",
-            "% of suburb": "2.3",
-            "Victoria": "62,662",
+        "Sri Lanka": {
+            "Berwick - North": "454",
+            "% of suburb": "2.0",
+            "Victoria": "68,066",
             "% of state": "1.0",
-            "Australia": "165,616",
-            "% of country": "0.7"
+            "Australia": "131,904",
+            "% of country": "0.5"
         },
-        "Hong Kong (SAR of China)": {
-            "Mitcham (Vic.)": "223",
-            "% of suburb": "1.3",
-            "Victoria": "25,324",
-            "% of state": "0.4",
-            "Australia": "100,148",
-            "% of country": "0.4"
+        "New Zealand": {
+            "Berwick - North": "311",
+            "% of suburb": "1.4",
+            "Victoria": "99,344",
+            "% of state": "1.5",
+            "Australia": "530,492",
+            "% of country": "2.1"
         }
     },
     "Country of birth of parents": {
         "Both parents born overseas": {
-            "Mitcham (Vic.)": "7,517",
-            "% of suburb": "44.8",
+            "Berwick - North": "9,006",
+            "% of suburb": "39.2",
             "Victoria": "2,684,522",
             "% of state": "41.3",
             "Australia": "9,321,603",
             "% of country": "36.7"
         },
         "Father only born overseas": {
-            "Mitcham (Vic.)": "1,202",
-            "% of suburb": "7.2",
+            "Berwick - North": "1,756",
+            "% of suburb": "7.6",
             "Victoria": "410,848",
             "% of state": "6.3",
             "Australia": "1,670,476",
             "% of country": "6.6"
         },
         "Mother only born overseas": {
-            "Mitcham (Vic.)": "873",
-            "% of suburb": "5.2",
+            "Berwick - North": "1,244",
+            "% of suburb": "5.4",
             "Victoria": "298,977",
             "% of state": "4.6",
             "Australia": "1,257,942",
             "% of country": "4.9"
         },
         "Both parents born in Australia": {
-            "Mitcham (Vic.)": "6,790",
-            "% of suburb": "40.4",
+            "Berwick - North": "9,973",
+            "% of suburb": "43.4",
             "Victoria": "2,757,268",
             "% of state": "42.4",
             "Australia": "11,663,577",
             "% of country": "45.9"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "412",
-            "% of suburb": "2.5",
+            "Berwick - North": "981",
+            "% of suburb": "4.3",
             "Victoria": "351,877",
             "% of state": "5.4",
             "Australia": "1,509,188",
@@ -653,173 +653,173 @@
     },
     "Country of birth of father, top stated responses": {
         "Australia": {
-            "Mitcham (Vic.)": "7,685",
-            "% of suburb": "45.8",
+            "Berwick - North": "11,240",
+            "% of suburb": "48.9",
             "Victoria": "3,065,587",
             "% of state": "47.1",
             "Australia": "12,959,282",
             "% of country": "51.0"
         },
-        "China (excludes SARs and Taiwan)": {
-            "Mitcham (Vic.)": "1,869",
-            "% of suburb": "11.1",
-            "Victoria": "239,218",
-            "% of state": "3.7",
-            "Australia": "784,594",
-            "% of country": "3.1"
-        },
         "England": {
-            "Mitcham (Vic.)": "897",
-            "% of suburb": "5.3",
+            "Berwick - North": "1,895",
+            "% of suburb": "8.3",
             "Victoria": "318,462",
             "% of state": "4.9",
             "Australia": "1,626,778",
             "% of country": "6.4"
         },
         "India": {
-            "Mitcham (Vic.)": "843",
-            "% of suburb": "5.0",
+            "Berwick - North": "917",
+            "% of suburb": "4.0",
             "Victoria": "354,761",
             "% of state": "5.5",
             "Australia": "935,066",
             "% of country": "3.7"
         },
-        "Malaysia": {
-            "Mitcham (Vic.)": "468",
-            "% of suburb": "2.8",
-            "Victoria": "72,547",
-            "% of state": "1.1",
-            "Australia": "192,663",
-            "% of country": "0.8"
+        "China (excludes SARs and Taiwan)": {
+            "Berwick - North": "840",
+            "% of suburb": "3.7",
+            "Victoria": "239,218",
+            "% of state": "3.7",
+            "Australia": "784,594",
+            "% of country": "3.1"
+        },
+        "Sri Lanka": {
+            "Berwick - North": "710",
+            "% of suburb": "3.1",
+            "Victoria": "96,586",
+            "% of state": "1.5",
+            "Australia": "186,191",
+            "% of country": "0.7"
         }
     },
     "Country of birth of mother, top stated responses": {
         "Australia": {
-            "Mitcham (Vic.)": "8,005",
-            "% of suburb": "47.7",
+            "Berwick - North": "11,764",
+            "% of suburb": "51.2",
             "Victoria": "3,179,788",
             "% of state": "48.9",
             "Australia": "13,383,605",
             "% of country": "52.6"
         },
-        "China (excludes SARs and Taiwan)": {
-            "Mitcham (Vic.)": "1,875",
-            "% of suburb": "11.2",
-            "Victoria": "239,730",
-            "% of state": "3.7",
-            "Australia": "787,673",
-            "% of country": "3.1"
-        },
-        "India": {
-            "Mitcham (Vic.)": "824",
-            "% of suburb": "4.9",
-            "Victoria": "349,077",
-            "% of state": "5.4",
-            "Australia": "917,541",
-            "% of country": "3.6"
-        },
         "England": {
-            "Mitcham (Vic.)": "720",
-            "% of suburb": "4.3",
+            "Berwick - North": "1,767",
+            "% of suburb": "7.7",
             "Victoria": "288,747",
             "% of state": "4.4",
             "Australia": "1,488,479",
             "% of country": "5.9"
         },
-        "Malaysia": {
-            "Mitcham (Vic.)": "499",
+        "India": {
+            "Berwick - North": "889",
+            "% of suburb": "3.9",
+            "Victoria": "349,077",
+            "% of state": "5.4",
+            "Australia": "917,541",
+            "% of country": "3.6"
+        },
+        "China (excludes SARs and Taiwan)": {
+            "Berwick - North": "880",
+            "% of suburb": "3.8",
+            "Victoria": "239,730",
+            "% of state": "3.7",
+            "Australia": "787,673",
+            "% of country": "3.1"
+        },
+        "Sri Lanka": {
+            "Berwick - North": "683",
             "% of suburb": "3.0",
-            "Victoria": "76,400",
-            "% of state": "1.2",
-            "Australia": "205,254",
-            "% of country": "0.8"
+            "Victoria": "94,443",
+            "% of state": "1.5",
+            "Australia": "182,104",
+            "% of country": "0.7"
         }
     },
     "Religious affiliation, top responses": {
         "No Religion, so described": {
-            "Mitcham (Vic.)": "7,671",
-            "% of suburb": "45.7",
+            "Berwick - North": "8,884",
+            "% of suburb": "38.7",
             "Victoria": "2,523,448",
             "% of state": "38.8",
             "Australia": "9,767,448",
             "% of country": "38.4"
         },
         "Catholic": {
-            "Mitcham (Vic.)": "2,874",
-            "% of suburb": "17.1",
+            "Berwick - North": "5,337",
+            "% of suburb": "23.2",
             "Victoria": "1,335,784",
             "% of state": "20.5",
             "Australia": "5,075,907",
             "% of country": "20.0"
         },
         "Anglican": {
-            "Mitcham (Vic.)": "999",
-            "% of suburb": "5.9",
+            "Berwick - North": "2,141",
+            "% of suburb": "9.3",
             "Victoria": "425,007",
             "% of state": "6.5",
             "Australia": "2,496,273",
             "% of country": "9.8"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "694",
-            "% of suburb": "4.1",
+            "Berwick - North": "1,162",
+            "% of suburb": "5.1",
             "Victoria": "412,883",
             "% of state": "6.3",
             "Australia": "1,751,052",
             "% of country": "6.9"
         },
-        "Christian, nfd": {
-            "Mitcham (Vic.)": "624",
-            "% of suburb": "3.7",
-            "Victoria": "165,634",
-            "% of state": "2.5",
-            "Australia": "688,440",
-            "% of country": "2.7"
+        "Uniting Church": {
+            "Berwick - North": "686",
+            "% of suburb": "3.0",
+            "Victoria": "156,166",
+            "% of state": "2.4",
+            "Australia": "673,260",
+            "% of country": "2.6"
         }
     },
     "Language used at home, top responses (other than English)": {
         "Mandarin": {
-            "Mitcham (Vic.)": "1,764",
-            "% of suburb": "10.5",
+            "Berwick - North": "818",
+            "% of suburb": "3.6",
             "Victoria": "221,798",
             "% of state": "3.4",
             "Australia": "685,274",
             "% of country": "2.7"
         },
-        "Cantonese": {
-            "Mitcham (Vic.)": "750",
-            "% of suburb": "4.5",
-            "Victoria": "82,432",
-            "% of state": "1.3",
-            "Australia": "295,281",
-            "% of country": "1.2"
-        },
-        "Vietnamese": {
-            "Mitcham (Vic.)": "189",
-            "% of suburb": "1.1",
-            "Victoria": "118,801",
-            "% of state": "1.8",
-            "Australia": "320,758",
-            "% of country": "1.3"
+        "Sinhalese": {
+            "Berwick - North": "370",
+            "% of suburb": "1.6",
+            "Victoria": "49,501",
+            "% of state": "0.8",
+            "Australia": "85,869",
+            "% of country": "0.3"
         },
         "Italian": {
-            "Mitcham (Vic.)": "184",
-            "% of suburb": "1.1",
+            "Berwick - North": "238",
+            "% of suburb": "1.0",
             "Victoria": "92,320",
             "% of state": "1.4",
             "Australia": "228,042",
             "% of country": "0.9"
         },
-        "Persian (excluding Dari)": {
-            "Mitcham (Vic.)": "178",
-            "% of suburb": "1.1",
-            "Victoria": "22,398",
-            "% of state": "0.3",
-            "Australia": "72,498",
-            "% of country": "0.3"
+        "Spanish": {
+            "Berwick - North": "176",
+            "% of suburb": "0.8",
+            "Victoria": "43,181",
+            "% of state": "0.7",
+            "Australia": "171,370",
+            "% of country": "0.7"
+        },
+        "Hindi": {
+            "Berwick - North": "169",
+            "% of suburb": "0.7",
+            "Victoria": "66,930",
+            "% of state": "1.0",
+            "Australia": "197,132",
+            "% of country": "0.8"
         },
         "": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -827,16 +827,16 @@
             "% of country": ""
         },
         "English only used at home": {
-            "Mitcham (Vic.)": "11,040",
-            "% of suburb": "65.7",
+            "Berwick - North": "17,605",
+            "% of suburb": "76.7",
             "Victoria": "4,369,804",
             "% of state": "67.2",
             "Australia": "18,303,662",
             "% of country": "72.0"
         },
         "Households where a non-English language is used": {
-            "Mitcham (Vic.)": "2,224",
-            "% of suburb": "34.4",
+            "Berwick - North": "1,789",
+            "% of suburb": "21.3",
             "Victoria": "722,004",
             "% of state": "30.2",
             "Australia": "2,295,688",
@@ -845,24 +845,24 @@
     },
     "Participation in the labour force": {
         "In the labour force": {
-            "Mitcham (Vic.)": "9,316",
-            "% of suburb": "67.4",
+            "Berwick - North": "11,837",
+            "% of suburb": "61.9",
             "Victoria": "3,330,560",
             "% of state": "62.4",
             "Australia": "12,695,853",
             "% of country": "61.1"
         },
         "Not in the labour force": {
-            "Mitcham (Vic.)": "4,143",
-            "% of suburb": "30.0",
+            "Berwick - North": "6,470",
+            "% of suburb": "33.8",
             "Victoria": "1,719,644",
             "% of state": "32.2",
             "Australia": "6,888,081",
             "% of country": "33.1"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "351",
-            "% of suburb": "2.5",
+            "Berwick - North": "832",
+            "% of suburb": "4.3",
             "Victoria": "283,829",
             "% of state": "5.3",
             "Australia": "1,200,851",
@@ -871,32 +871,32 @@
     },
     "Employment status": {
         "Worked full-time": {
-            "Mitcham (Vic.)": "5,423",
-            "% of suburb": "58.2",
+            "Berwick - North": "6,874",
+            "% of suburb": "58.1",
             "Victoria": "1,871,278",
             "% of state": "56.2",
             "Australia": "7,095,103",
             "% of country": "55.9"
         },
         "Worked part-time": {
-            "Mitcham (Vic.)": "2,968",
-            "% of suburb": "31.9",
+            "Berwick - North": "3,792",
+            "% of suburb": "32.0",
             "Victoria": "1,076,741",
             "% of state": "32.3",
             "Australia": "3,962,550",
             "% of country": "31.2"
         },
         "Away from work (a)": {
-            "Mitcham (Vic.)": "516",
-            "% of suburb": "5.5",
+            "Berwick - North": "640",
+            "% of suburb": "5.4",
             "Victoria": "214,876",
             "% of state": "6.5",
             "Australia": "991,758",
             "% of country": "7.8"
         },
         "Unemployed": {
-            "Mitcham (Vic.)": "408",
-            "% of suburb": "4.4",
+            "Berwick - North": "529",
+            "% of suburb": "4.5",
             "Victoria": "167,667",
             "% of state": "5.0",
             "Australia": "646,442",
@@ -905,56 +905,56 @@
     },
     "Employment, hours worked": {
         "0 hours (away from work)": {
-            "Mitcham (Vic.)": "418",
-            "% of suburb": "4.7",
+            "Berwick - North": "501",
+            "% of suburb": "4.4",
             "Victoria": "160,594",
             "% of state": "5.1",
             "Australia": "787,382",
             "% of country": "6.5"
         },
         "1-19 hours": {
-            "Mitcham (Vic.)": "1,246",
-            "% of suburb": "14.0",
+            "Berwick - North": "1,657",
+            "% of suburb": "14.7",
             "Victoria": "455,966",
             "% of state": "14.4",
             "Australia": "1,681,120",
             "% of country": "14.0"
         },
         "20-29 hours": {
-            "Mitcham (Vic.)": "997",
-            "% of suburb": "11.2",
+            "Berwick - North": "1,291",
+            "% of suburb": "11.4",
             "Victoria": "371,345",
             "% of state": "11.7",
             "Australia": "1,373,403",
             "% of country": "11.4"
         },
         "30-34 hours": {
-            "Mitcham (Vic.)": "726",
-            "% of suburb": "8.1",
+            "Berwick - North": "849",
+            "% of suburb": "7.5",
             "Victoria": "249,436",
             "% of state": "7.9",
             "Australia": "908,031",
             "% of country": "7.5"
         },
         "35-39 hours": {
-            "Mitcham (Vic.)": "1,900",
-            "% of suburb": "21.3",
+            "Berwick - North": "2,361",
+            "% of suburb": "20.9",
             "Victoria": "658,731",
             "% of state": "20.8",
             "Australia": "2,487,056",
             "% of country": "20.6"
         },
         "40-44 hours": {
-            "Mitcham (Vic.)": "2,091",
-            "% of suburb": "23.5",
+            "Berwick - North": "2,478",
+            "% of suburb": "21.9",
             "Victoria": "685,482",
             "% of state": "21.7",
             "Australia": "2,448,402",
             "% of country": "20.3"
         },
         "45 hours or more": {
-            "Mitcham (Vic.)": "1,430",
-            "% of suburb": "16.0",
+            "Berwick - North": "2,034",
+            "% of suburb": "18.0",
             "Victoria": "527,063",
             "% of state": "16.7",
             "Australia": "2,159,645",
@@ -963,64 +963,64 @@
     },
     "Occupation, top responses": {
         "Professionals": {
-            "Mitcham (Vic.)": "3,070",
-            "% of suburb": "34.5",
+            "Berwick - North": "2,638",
+            "% of suburb": "23.3",
             "Victoria": "790,960",
             "% of state": "25.0",
             "Australia": "2,886,921",
             "% of country": "24.0"
         },
         "Managers": {
-            "Mitcham (Vic.)": "1,286",
-            "% of suburb": "14.4",
+            "Berwick - North": "1,729",
+            "% of suburb": "15.3",
             "Victoria": "442,109",
             "% of state": "14.0",
             "Australia": "1,645,769",
             "% of country": "13.7"
         },
         "Clerical and Administrative Workers": {
-            "Mitcham (Vic.)": "1,216",
-            "% of suburb": "13.6",
+            "Berwick - North": "1,691",
+            "% of suburb": "15.0",
             "Victoria": "392,444",
             "% of state": "12.4",
             "Australia": "1,525,311",
             "% of country": "12.7"
         },
         "Technicians and Trades Workers": {
-            "Mitcham (Vic.)": "905",
-            "% of suburb": "10.2",
+            "Berwick - North": "1,557",
+            "% of suburb": "13.8",
             "Victoria": "399,460",
             "% of state": "12.6",
             "Australia": "1,554,313",
             "% of country": "12.9"
         },
         "Community and Personal Service Workers": {
-            "Mitcham (Vic.)": "844",
-            "% of suburb": "9.5",
+            "Berwick - North": "1,135",
+            "% of suburb": "10.0",
             "Victoria": "347,570",
             "% of state": "11.0",
             "Australia": "1,382,205",
             "% of country": "11.5"
         },
         "Sales Workers": {
-            "Mitcham (Vic.)": "668",
-            "% of suburb": "7.5",
+            "Berwick - North": "1,098",
+            "% of suburb": "9.7",
             "Victoria": "263,317",
             "% of state": "8.3",
             "Australia": "986,433",
             "% of country": "8.2"
         },
         "Labourers": {
-            "Mitcham (Vic.)": "526",
-            "% of suburb": "5.9",
+            "Berwick - North": "779",
+            "% of suburb": "6.9",
             "Victoria": "277,292",
             "% of state": "8.8",
             "Australia": "1,086,120",
             "% of country": "9.0"
         },
         "Machinery Operators and Drivers": {
-            "Mitcham (Vic.)": "250",
-            "% of suburb": "2.8",
+            "Berwick - North": "515",
+            "% of suburb": "4.6",
             "Victoria": "187,939",
             "% of state": "5.9",
             "Australia": "755,863",
@@ -1029,49 +1029,49 @@
     },
     "Industry of employment, top responses": {
         "Hospitals (except Psychiatric Hospitals)": {
-            "Mitcham (Vic.)": "385",
-            "% of suburb": "4.3",
+            "Berwick - North": "499",
+            "% of suburb": "4.4",
             "Victoria": "146,890",
             "% of state": "4.6",
             "Australia": "545,158",
             "% of country": "4.5"
         },
-        "Computer System Design and Related Services": {
-            "Mitcham (Vic.)": "324",
-            "% of suburb": "3.6",
-            "Victoria": "67,561",
-            "% of state": "2.1",
-            "Australia": "221,712",
-            "% of country": "1.8"
-        },
-        "Banking": {
-            "Mitcham (Vic.)": "258",
-            "% of suburb": "2.9",
-            "Victoria": "49,740",
-            "% of state": "1.6",
-            "Australia": "158,358",
-            "% of country": "1.3"
-        },
-        "Cafes and Restaurants": {
-            "Mitcham (Vic.)": "216",
-            "% of suburb": "2.4",
-            "Victoria": "77,070",
-            "% of state": "2.4",
-            "Australia": "268,005",
-            "% of country": "2.2"
-        },
         "Primary Education": {
-            "Mitcham (Vic.)": "192",
-            "% of suburb": "2.2",
+            "Berwick - North": "330",
+            "% of suburb": "2.9",
             "Victoria": "61,560",
             "% of state": "1.9",
             "Australia": "265,249",
             "% of country": "2.2"
+        },
+        "Takeaway Food Services": {
+            "Berwick - North": "250",
+            "% of suburb": "2.2",
+            "Victoria": "58,942",
+            "% of state": "1.9",
+            "Australia": "232,691",
+            "% of country": "1.9"
+        },
+        "Supermarket and Grocery Stores": {
+            "Berwick - North": "246",
+            "% of suburb": "2.2",
+            "Victoria": "75,275",
+            "% of state": "2.4",
+            "Australia": "299,810",
+            "% of country": "2.5"
+        },
+        "Secondary Education": {
+            "Berwick - North": "236",
+            "% of suburb": "2.1",
+            "Victoria": "52,660",
+            "% of state": "1.7",
+            "Australia": "205,360",
+            "% of country": "1.7"
         }
     },
     "Median weekly incomes (a)": {
         "Personal (b)": {
-            "Mitcham (Vic.)": "$911",
+            "Berwick - North": "$820",
             "% of suburb": "N/A",
             "Victoria": "$803",
             "% of state": "N/A",
@@ -1079,7 +1079,7 @@
             "% of country": "N/A"
         },
         "Family (c)": {
-            "Mitcham (Vic.)": "$2,487",
+            "Berwick - North": "$2,311",
             "% of suburb": "N/A",
             "Victoria": "$2,136",
             "% of state": "N/A",
@@ -1087,7 +1087,7 @@
             "% of country": "N/A"
         },
         "Household (d)": {
-            "Mitcham (Vic.)": "$2,030",
+            "Berwick - North": "$1,885",
             "% of suburb": "N/A",
             "Victoria": "$1,759",
             "% of state": "N/A",
@@ -1097,47 +1097,47 @@
     },
     "Method of travel to work on the day of the Census, top responses": {
         "Car, as driver": {
-            "Mitcham (Vic.)": "3,538",
-            "% of suburb": "39.7",
+            "Berwick - North": "6,213",
+            "% of suburb": "54.9",
             "Victoria": "1,578,210",
             "% of state": "49.9",
             "Australia": "6,347,498",
             "% of country": "52.7"
         },
-        "Train": {
-            "Mitcham (Vic.)": "295",
-            "% of suburb": "3.3",
-            "Victoria": "51,921",
-            "% of state": "1.6",
-            "Australia": "170,326",
-            "% of country": "1.4"
-        },
         "Car, as passenger": {
-            "Mitcham (Vic.)": "237",
-            "% of suburb": "2.7",
+            "Berwick - North": "401",
+            "% of suburb": "3.5",
             "Victoria": "110,123",
             "% of state": "3.5",
             "Australia": "466,904",
             "% of country": "3.9"
         },
+        "Train": {
+            "Berwick - North": "127",
+            "% of suburb": "1.1",
+            "Victoria": "51,921",
+            "% of state": "1.6",
+            "Australia": "170,326",
+            "% of country": "1.4"
+        },
         "Walked only": {
-            "Mitcham (Vic.)": "119",
-            "% of suburb": "1.3",
+            "Berwick - North": "83",
+            "% of suburb": "0.7",
             "Victoria": "72,373",
             "% of state": "2.3",
             "Australia": "306,045",
             "% of country": "2.5"
         },
-        "Train, bus": {
-            "Mitcham (Vic.)": "65",
-            "% of suburb": "0.7",
-            "Victoria": "11,016",
-            "% of state": "0.3",
-            "Australia": "52,509",
-            "% of country": "0.4"
+        "Truck": {
+            "Berwick - North": "35",
+            "% of suburb": "0.3",
+            "Victoria": "16,403",
+            "% of state": "0.5",
+            "Australia": "76,657",
+            "% of country": "0.6"
         },
         "": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -1145,32 +1145,32 @@
             "% of country": ""
         },
         "Did not go to work": {
-            "Mitcham (Vic.)": "1,002",
-            "% of suburb": "11.2",
+            "Berwick - North": "1,289",
+            "% of suburb": "11.4",
             "Victoria": "353,067",
             "% of state": "11.2",
             "Australia": "1,417,449",
             "% of country": "11.8"
         },
         "Worked at home": {
-            "Mitcham (Vic.)": "3,302",
-            "% of suburb": "37.1",
+            "Berwick - North": "2,889",
+            "% of suburb": "25.6",
             "Victoria": "814,082",
             "% of state": "25.7",
             "Australia": "2,531,262",
             "% of country": "21.0"
         },
         "People who travelled to work by public transport (a)": {
-            "Mitcham (Vic.)": "534",
-            "% of suburb": "6.0",
+            "Berwick - North": "241",
+            "% of suburb": "2.1",
             "Victoria": "138,867",
             "% of state": "4.4",
             "Australia": "554,711",
             "% of country": "4.6"
         },
         "People who travelled to work by car as driver or passenger (b)": {
-            "Mitcham (Vic.)": "3,882",
-            "% of suburb": "43.6",
+            "Berwick - North": "6,709",
+            "% of suburb": "59.3",
             "Victoria": "1,723,018",
             "% of state": "54.5",
             "Australia": "6,961,762",
@@ -1179,32 +1179,32 @@
     },
     "Unpaid work and care": {
         "Did unpaid domestic work (week before Census Night)": {
-            "Mitcham (Vic.)": "10,424",
-            "% of suburb": "75.4",
+            "Berwick - North": "13,535",
+            "% of suburb": "70.7",
             "Victoria": "3,583,114",
             "% of state": "67.2",
             "Australia": "14,077,657",
             "% of country": "67.7"
         },
         "Provided unpaid care for child/children (during two weeks before Census Night)": {
-            "Mitcham (Vic.)": "4,075",
-            "% of suburb": "29.5",
+            "Berwick - North": "5,107",
+            "% of suburb": "26.7",
             "Victoria": "1,402,952",
             "% of state": "26.3",
             "Australia": "5,471,756",
             "% of country": "26.3"
         },
         "Provided unpaid assistance to a person with a disability, health condition or due to old age (during two weeks before Census Night)": {
-            "Mitcham (Vic.)": "1,906",
-            "% of suburb": "13.8",
+            "Berwick - North": "2,560",
+            "% of suburb": "13.4",
             "Victoria": "689,210",
             "% of state": "12.9",
             "Australia": "2,476,681",
             "% of country": "11.9"
         },
         "Did voluntary work through an organisation or group (last 12 months)": {
-            "Mitcham (Vic.)": "2,424",
-            "% of suburb": "17.5",
+            "Berwick - North": "2,471",
+            "% of suburb": "12.9",
             "Victoria": "712,003",
             "% of state": "13.3",
             "Australia": "2,933,646",
@@ -1213,32 +1213,32 @@
     },
     "Unpaid domestic work, number of hours": {
         "Less than 5 hours": {
-            "Mitcham (Vic.)": "3,052",
-            "% of suburb": "22.1",
+            "Berwick - North": "4,136",
+            "% of suburb": "21.6",
             "Victoria": "1,064,059",
             "% of state": "19.9",
             "Australia": "4,117,135",
             "% of country": "19.8"
         },
         "5 to 14 hours": {
-            "Mitcham (Vic.)": "4,487",
-            "% of suburb": "32.5",
+            "Berwick - North": "5,366",
+            "% of suburb": "28.0",
             "Victoria": "1,445,125",
             "% of state": "27.1",
             "Australia": "5,663,904",
             "% of country": "27.3"
         },
         "15 to 29 hours": {
-            "Mitcham (Vic.)": "1,810",
-            "% of suburb": "13.1",
+            "Berwick - North": "2,418",
+            "% of suburb": "12.6",
             "Victoria": "629,720",
             "% of state": "11.8",
             "Australia": "2,511,024",
             "% of country": "12.1"
         },
         "30 hours or more": {
-            "Mitcham (Vic.)": "1,074",
-            "% of suburb": "7.8",
+            "Berwick - North": "1,611",
+            "% of suburb": "8.4",
             "Victoria": "444,213",
             "% of state": "8.3",
             "Australia": "1,785,591",
@@ -1247,104 +1247,104 @@
     },
     "Type of long-term health condition": {
         "Arthritis": {
-            "Mitcham (Vic.)": "1,160",
-            "% of suburb": "6.9",
+            "Berwick - North": "2,261",
+            "% of suburb": "9.8",
             "Victoria": "518,633",
             "% of state": "8.0",
             "Australia": "2,150,396",
             "% of country": "8.5"
         },
         "Asthma": {
-            "Mitcham (Vic.)": "1,456",
-            "% of suburb": "8.7",
+            "Berwick - North": "1,969",
+            "% of suburb": "8.6",
             "Victoria": "543,047",
             "% of state": "8.4",
             "Australia": "2,068,020",
             "% of country": "8.1"
         },
         "Cancer (including remission)": {
-            "Mitcham (Vic.)": "474",
-            "% of suburb": "2.8",
+            "Berwick - North": "851",
+            "% of suburb": "3.7",
             "Victoria": "179,326",
             "% of state": "2.8",
             "Australia": "732,152",
             "% of country": "2.9"
         },
         "Dementia (including Alzheimer's)": {
-            "Mitcham (Vic.)": "56",
-            "% of suburb": "0.3",
+            "Berwick - North": "251",
+            "% of suburb": "1.1",
             "Victoria": "45,946",
             "% of state": "0.7",
             "Australia": "189,162",
             "% of country": "0.7"
         },
         "Diabetes (excluding gestational diabetes)": {
-            "Mitcham (Vic.)": "671",
-            "% of suburb": "4.0",
+            "Berwick - North": "1,190",
+            "% of suburb": "5.2",
             "Victoria": "303,371",
             "% of state": "4.7",
             "Australia": "1,198,721",
             "% of country": "4.7"
         },
         "Heart disease (including heart attack or angina)": {
-            "Mitcham (Vic.)": "490",
-            "% of suburb": "2.9",
+            "Berwick - North": "1,139",
+            "% of suburb": "5.0",
             "Victoria": "243,130",
             "% of state": "3.7",
             "Australia": "999,096",
             "% of country": "3.9"
         },
         "Kidney disease": {
-            "Mitcham (Vic.)": "117",
-            "% of suburb": "0.7",
+            "Berwick - North": "255",
+            "% of suburb": "1.1",
             "Victoria": "57,437",
             "% of state": "0.9",
             "Australia": "231,777",
             "% of country": "0.9"
         },
         "Lung condition (including COPD or emphysema)": {
-            "Mitcham (Vic.)": "177",
-            "% of suburb": "1.1",
+            "Berwick - North": "386",
+            "% of suburb": "1.7",
             "Victoria": "97,270",
             "% of state": "1.5",
             "Australia": "441,109",
             "% of country": "1.7"
         },
         "Mental health condition (including depression or anxiety)": {
-            "Mitcham (Vic.)": "1,352",
-            "% of suburb": "8.1",
+            "Berwick - North": "2,109",
+            "% of suburb": "9.2",
             "Victoria": "571,150",
             "% of state": "8.8",
             "Australia": "2,231,543",
             "% of country": "8.8"
         },
         "Stroke": {
-            "Mitcham (Vic.)": "120",
-            "% of suburb": "0.7",
+            "Berwick - North": "272",
+            "% of suburb": "1.2",
             "Victoria": "59,844",
             "% of state": "0.9",
             "Australia": "234,609",
             "% of country": "0.9"
         },
         "Any other long-term health condition(s)": {
-            "Mitcham (Vic.)": "1,469",
-            "% of suburb": "8.7",
+            "Berwick - North": "1,836",
+            "% of suburb": "8.0",
             "Victoria": "519,110",
             "% of state": "8.0",
             "Australia": "2,041,929",
             "% of country": "8.0"
         },
         "No long-term health condition(s)": {
-            "Mitcham (Vic.)": "10,834",
-            "% of suburb": "64.5",
+            "Berwick - North": "13,363",
+            "% of suburb": "58.2",
             "Victoria": "3,969,506",
             "% of state": "61.0",
             "Australia": "15,292,718",
             "% of country": "60.2"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "729",
-            "% of suburb": "4.3",
+            "Berwick - North": "1,550",
+            "% of suburb": "6.7",
             "Victoria": "492,709",
             "% of state": "7.6",
             "Australia": "2,066,251",
@@ -1353,40 +1353,40 @@
     },
     "Count of selected long-term health conditions": {
         "None of the selected conditions": {
-            "Mitcham (Vic.)": "11,656",
-            "% of suburb": "69.4",
+            "Berwick - North": "14,272",
+            "% of suburb": "62.2",
             "Victoria": "4,228,219",
             "% of state": "65.0",
             "Australia": "16,302,537",
             "% of country": "64.1"
         },
         "One condition": {
-            "Mitcham (Vic.)": "3,190",
-            "% of suburb": "19.0",
+            "Berwick - North": "4,771",
+            "% of suburb": "20.8",
             "Victoria": "1,224,496",
             "% of state": "18.8",
             "Australia": "4,791,516",
             "% of country": "18.8"
         },
         "Two conditions": {
-            "Mitcham (Vic.)": "876",
-            "% of suburb": "5.2",
+            "Berwick - North": "1,568",
+            "% of suburb": "6.8",
             "Victoria": "371,819",
             "% of state": "5.7",
             "Australia": "1,490,344",
             "% of country": "5.9"
         },
         "Three or more conditions": {
-            "Mitcham (Vic.)": "333",
-            "% of suburb": "2.0",
+            "Berwick - North": "808",
+            "% of suburb": "3.5",
             "Victoria": "186,237",
             "% of state": "2.9",
             "Australia": "772,142",
             "% of country": "3.0"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "729",
-            "% of suburb": "4.3",
+            "Berwick - North": "1,550",
+            "% of suburb": "6.7",
             "Victoria": "492,709",
             "% of state": "7.6",
             "Australia": "2,066,251",
@@ -1395,32 +1395,32 @@
     },
     "Australian Defence Force Service": {
         "Currently serving": {
-            "Mitcham (Vic.)": "23",
-            "% of suburb": "0.2",
+            "Berwick - North": "14",
+            "% of suburb": "0.1",
             "Victoria": "10,839",
             "% of state": "0.2",
             "Australia": "84,865",
             "% of country": "0.4"
         },
         "Previously served (and not currently serving)": {
-            "Mitcham (Vic.)": "268",
-            "% of suburb": "1.9",
+            "Berwick - North": "385",
+            "% of suburb": "2.0",
             "Victoria": "94,393",
             "% of state": "1.8",
             "Australia": "496,276",
             "% of country": "2.4"
         },
         "Has never served": {
-            "Mitcham (Vic.)": "13,175",
-            "% of suburb": "95.3",
+            "Berwick - North": "17,933",
+            "% of suburb": "93.7",
             "Victoria": "4,936,372",
             "% of state": "92.5",
             "Australia": "18,954,152",
             "% of country": "91.2"
         },
         "Not stated": {
-            "Mitcham (Vic.)": "357",
-            "% of suburb": "2.6",
+            "Berwick - North": "803",
+            "% of suburb": "4.2",
             "Victoria": "292,432",
             "% of state": "5.5",
             "Australia": "1,249,493",
@@ -1429,32 +1429,32 @@
     },
     "Family composition": {
         "Couple family without children": {
-            "Mitcham (Vic.)": "1,733",
-            "% of suburb": "36.8",
+            "Berwick - North": "2,433",
+            "% of suburb": "37.9",
             "Victoria": "645,543",
             "% of state": "37.6",
             "Australia": "2,608,834",
             "% of country": "38.8"
         },
         "Couple family with children": {
-            "Mitcham (Vic.)": "2,290",
-            "% of suburb": "48.6",
+            "Berwick - North": "3,063",
+            "% of suburb": "47.7",
             "Victoria": "782,321",
             "% of state": "45.5",
             "Australia": "2,944,140",
             "% of country": "43.7"
         },
         "One parent family": {
-            "Mitcham (Vic.)": "614",
-            "% of suburb": "13.0",
+            "Berwick - North": "864",
+            "% of suburb": "13.5",
             "Victoria": "262,040",
             "% of state": "15.2",
             "Australia": "1,068,268",
             "% of country": "15.9"
         },
         "Other family": {
-            "Mitcham (Vic.)": "74",
-            "% of suburb": "1.6",
+            "Berwick - North": "62",
+            "% of suburb": "1.0",
             "Victoria": "28,875",
             "% of state": "1.7",
             "Australia": "108,941",
@@ -1463,16 +1463,16 @@
     },
     "Single (or lone) parents": {
         "Male": {
-            "Mitcham (Vic.)": "N/A",
-            "% of suburb": "19.4",
+            "Berwick - North": "N/A",
+            "% of suburb": "18.6",
             "Victoria": "N/A",
             "% of state": "19.1",
             "Australia": "N/A",
             "% of country": "19.6"
         },
         "Female": {
-            "Mitcham (Vic.)": "N/A",
-            "% of suburb": "80.9",
+            "Berwick - North": "N/A",
+            "% of suburb": "81.7",
             "Victoria": "N/A",
             "% of state": "80.9",
             "Australia": "N/A",
@@ -1481,31 +1481,31 @@
     },
     "Employment status of couple families": {
         "Both employed, worked full-time": {
-            "Mitcham (Vic.)": "1,022",
-            "% of suburb": "25.4",
+            "Berwick - North": "1,267",
+            "% of suburb": "23.0",
             "Victoria": "323,693",
             "% of state": "22.7",
             "Australia": "1,234,626",
             "% of country": "22.2"
         },
         "Both employed, worked part-time": {
-            "Mitcham (Vic.)": "187",
-            "% of suburb": "4.6",
+            "Berwick - North": "202",
+            "% of suburb": "3.7",
             "Victoria": "70,928",
             "% of state": "5.0",
             "Australia": "264,182",
             "% of country": "4.8"
         },
         "One employed full-time, one part-time": {
-            "Mitcham (Vic.)": "984",
-            "% of suburb": "24.5",
+            "Berwick - North": "1,357",
+            "% of suburb": "24.7",
             "Victoria": "322,757",
             "% of state": "22.6",
             "Australia": "1,155,042",
             "% of country": "20.8"
         },
         "One employed full-time, other not working": {
-            "Mitcham (Vic.)": "530",
+            "Berwick - North": "728",
             "% of suburb": "13.2",
             "Victoria": "189,173",
             "% of state": "13.2",
@@ -1513,32 +1513,32 @@
             "% of country": "12.5"
         },
         "One employed part-time, other not working": {
-            "Mitcham (Vic.)": "230",
-            "% of suburb": "5.7",
+            "Berwick - North": "292",
+            "% of suburb": "5.3",
             "Victoria": "90,569",
             "% of state": "6.3",
             "Australia": "339,960",
             "% of country": "6.1"
         },
         "Both not working": {
-            "Mitcham (Vic.)": "710",
-            "% of suburb": "17.6",
+            "Berwick - North": "1,168",
+            "% of suburb": "21.2",
             "Victoria": "283,160",
             "% of state": "19.8",
             "Australia": "1,163,744",
             "% of country": "21.0"
         },
         "Other": {
-            "Mitcham (Vic.)": "257",
-            "% of suburb": "6.4",
+            "Berwick - North": "310",
+            "% of suburb": "5.6",
             "Victoria": "97,725",
             "% of state": "6.8",
             "Australia": "449,640",
             "% of country": "8.1"
         },
         "Labour force status not stated": {
-            "Mitcham (Vic.)": "96",
-            "% of suburb": "2.4",
+            "Berwick - North": "170",
+            "% of suburb": "3.1",
             "Victoria": "49,854",
             "% of state": "3.5",
             "Australia": "253,286",
@@ -1547,16 +1547,16 @@
     },
     "Dwelling count": {
         "Occupied private dwellings": {
-            "Mitcham (Vic.)": "6,468",
-            "% of suburb": "93.9",
+            "Berwick - North": "8,396",
+            "% of suburb": "94.1",
             "Victoria": "2,390,232",
             "% of state": "88.9",
             "Australia": "9,275,217",
             "% of country": "89.9"
         },
         "Unoccupied private dwellings": {
-            "Mitcham (Vic.)": "425",
-            "% of suburb": "6.2",
+            "Berwick - North": "528",
+            "% of suburb": "5.9",
             "Victoria": "298,029",
             "% of state": "11.1",
             "Australia": "1,043,776",
@@ -1565,32 +1565,32 @@
     },
     "Dwelling structure": {
         "Separate house": {
-            "Mitcham (Vic.)": "4,063",
-            "% of suburb": "62.8",
+            "Berwick - North": "6,883",
+            "% of suburb": "82.0",
             "Victoria": "1,755,423",
             "% of state": "73.4",
             "Australia": "6,710,582",
             "% of country": "72.3"
         },
         "Semi-detached, row or terrace house, townhouse etc": {
-            "Mitcham (Vic.)": "2,090",
-            "% of suburb": "32.3",
+            "Berwick - North": "1,490",
+            "% of suburb": "17.7",
             "Victoria": "332,251",
             "% of state": "13.9",
             "Australia": "1,168,860",
             "% of country": "12.6"
         },
         "Flat or apartment": {
-            "Mitcham (Vic.)": "310",
-            "% of suburb": "4.8",
+            "Berwick - North": "10",
+            "% of suburb": "0.1",
             "Victoria": "289,120",
             "% of state": "12.1",
             "Australia": "1,319,095",
             "% of country": "14.2"
         },
         "Other dwelling": {
-            "Mitcham (Vic.)": "0",
-            "% of suburb": "0.0",
+            "Berwick - North": "7",
+            "% of suburb": "0.1",
             "Victoria": "10,455",
             "% of state": "0.4",
             "Australia": "54,711",
@@ -1599,55 +1599,55 @@
     },
     "Number of bedrooms": {
         "None (includes studio apartments or bedsitters)": {
-            "Mitcham (Vic.)": "0",
-            "% of suburb": "0.0",
+            "Berwick - North": "17",
+            "% of suburb": "0.2",
             "Victoria": "7,798",
             "% of state": "0.3",
             "Australia": "44,864",
             "% of country": "0.5"
         },
         "1 bedroom": {
-            "Mitcham (Vic.)": "244",
-            "% of suburb": "3.8",
+            "Berwick - North": "138",
+            "% of suburb": "1.6",
             "Victoria": "122,594",
             "% of state": "5.1",
             "Australia": "488,681",
             "% of country": "5.3"
         },
         "2 bedrooms": {
-            "Mitcham (Vic.)": "1,427",
-            "% of suburb": "22.1",
+            "Berwick - North": "1,004",
+            "% of suburb": "12.0",
             "Victoria": "456,624",
             "% of state": "19.1",
             "Australia": "1,768,530",
             "% of country": "19.1"
         },
         "3 bedrooms": {
-            "Mitcham (Vic.)": "2,994",
-            "% of suburb": "46.3",
+            "Berwick - North": "3,547",
+            "% of suburb": "42.2",
             "Victoria": "992,656",
             "% of state": "41.5",
             "Australia": "3,617,803",
             "% of country": "39.0"
         },
         "4 or more bedrooms": {
-            "Mitcham (Vic.)": "1,751",
-            "% of suburb": "27.1",
+            "Berwick - North": "3,590",
+            "% of suburb": "42.7",
             "Victoria": "778,065",
             "% of state": "32.6",
             "Australia": "3,224,351",
             "% of country": "34.8"
         },
         "Number of bedrooms not stated": {
-            "Mitcham (Vic.)": "49",
-            "% of suburb": "0.8",
+            "Berwick - North": "103",
+            "% of suburb": "1.2",
             "Victoria": "32,490",
             "% of state": "1.4",
             "Australia": "130,989",
             "% of country": "1.4"
         },
         "": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -1655,7 +1655,7 @@
             "% of country": ""
         },
         "Average number of bedrooms per dwelling": {
-            "Mitcham (Vic.)": "3",
+            "Berwick - North": "3.4",
             "% of suburb": "N/A",
             "Victoria": "3.1",
             "% of state": "N/A",
@@ -1663,7 +1663,7 @@
             "% of country": "N/A"
         },
         "Average number of people per household": {
-            "Mitcham (Vic.)": "2.5",
+            "Berwick - North": "2.6",
             "% of suburb": "N/A",
             "Victoria": "2.5",
             "% of state": "N/A",
@@ -1673,40 +1673,40 @@
     },
     "Number of registered motor vehicles": {
         "None": {
-            "Mitcham (Vic.)": "393",
-            "% of suburb": "6.1",
+            "Berwick - North": "351",
+            "% of suburb": "4.2",
             "Victoria": "179,348",
             "% of state": "7.5",
             "Australia": "673,969",
             "% of country": "7.3"
         },
         "1 motor vehicle": {
-            "Mitcham (Vic.)": "2,661",
-            "% of suburb": "41.2",
+            "Berwick - North": "2,660",
+            "% of suburb": "31.7",
             "Victoria": "856,243",
             "% of state": "35.8",
             "Australia": "3,353,737",
             "% of country": "36.2"
         },
         "2 motor vehicles": {
-            "Mitcham (Vic.)": "2,488",
-            "% of suburb": "38.5",
+            "Berwick - North": "3,415",
+            "% of suburb": "40.7",
             "Victoria": "880,945",
             "% of state": "36.9",
             "Australia": "3,366,738",
             "% of country": "36.3"
         },
         "3 or more vehicles": {
-            "Mitcham (Vic.)": "875",
-            "% of suburb": "13.5",
+            "Berwick - North": "1,863",
+            "% of suburb": "22.2",
             "Victoria": "440,086",
             "% of state": "18.4",
             "Australia": "1,745,924",
             "% of country": "18.8"
         },
         "Number of motor vehicles not stated": {
-            "Mitcham (Vic.)": "49",
-            "% of suburb": "0.8",
+            "Berwick - North": "106",
+            "% of suburb": "1.3",
             "Victoria": "33,611",
             "% of state": "1.4",
             "Australia": "134,848",
@@ -1715,24 +1715,24 @@
     },
     "Household composition": {
         "Family households": {
-            "Mitcham (Vic.)": "4,604",
-            "% of suburb": "71.1",
+            "Berwick - North": "6,283",
+            "% of suburb": "74.8",
             "Victoria": "1,676,129",
             "% of state": "70.1",
             "Australia": "6,542,648",
             "% of country": "70.5"
         },
         "Single (or lone) person households": {
-            "Mitcham (Vic.)": "1,635",
-            "% of suburb": "25.3",
+            "Berwick - North": "1,972",
+            "% of suburb": "23.5",
             "Victoria": "619,542",
             "% of state": "25.9",
             "Australia": "2,370,742",
             "% of country": "25.6"
         },
         "Group households": {
-            "Mitcham (Vic.)": "235",
-            "% of suburb": "3.6",
+            "Berwick - North": "142",
+            "% of suburb": "1.7",
             "Victoria": "94,559",
             "% of state": "4.0",
             "Australia": "361,822",
@@ -1741,40 +1741,40 @@
     },
     "Tenure type": {
         "Owned outright": {
-            "Mitcham (Vic.)": "2,261",
-            "% of suburb": "35.0",
+            "Berwick - North": "3,195",
+            "% of suburb": "38.1",
             "Victoria": "768,730",
             "% of state": "32.2",
             "Australia": "2,872,331",
             "% of country": "31.0"
         },
         "Owned with a mortgage (a)": {
-            "Mitcham (Vic.)": "2,320",
-            "% of suburb": "35.9",
+            "Berwick - North": "3,234",
+            "% of suburb": "38.5",
             "Victoria": "862,658",
             "% of state": "36.1",
             "Australia": "3,242,449",
             "% of country": "35.0"
         },
         "Rented (b)": {
-            "Mitcham (Vic.)": "1,774",
-            "% of suburb": "27.4",
+            "Berwick - North": "1,533",
+            "% of suburb": "18.3",
             "Victoria": "681,419",
             "% of state": "28.5",
             "Australia": "2,842,378",
             "% of country": "30.6"
         },
         "Other tenure type (c)": {
-            "Mitcham (Vic.)": "63",
-            "% of suburb": "1.0",
+            "Berwick - North": "298",
+            "% of suburb": "3.5",
             "Victoria": "41,752",
             "% of state": "1.7",
             "Australia": "181,518",
             "% of country": "2.0"
         },
         "Tenure type not stated": {
-            "Mitcham (Vic.)": "50",
-            "% of suburb": "0.8",
+            "Berwick - North": "139",
+            "% of suburb": "1.7",
             "Victoria": "35,676",
             "% of state": "1.5",
             "Australia": "136,538",
@@ -1783,16 +1783,16 @@
     },
     "Household income": {
         "Less than $650 total household weekly income (a)": {
-            "Mitcham (Vic.)": "N/A",
-            "% of suburb": "13.7",
+            "Berwick - North": "N/A",
+            "% of suburb": "15.3",
             "Victoria": "N/A",
             "% of state": "16.4",
             "Australia": "N/A",
             "% of country": "16.5"
         },
         "More than $3,000 total household weekly income (a)": {
-            "Mitcham (Vic.)": "N/A",
-            "% of suburb": "31.3",
+            "Berwick - North": "N/A",
+            "% of suburb": "27.4",
             "Victoria": "N/A",
             "% of state": "24.2",
             "Australia": "N/A",
@@ -1801,7 +1801,7 @@
     },
     "Rent weekly payments": {
         "Median rent (a)": {
-            "Mitcham (Vic.)": "406",
+            "Berwick - North": "380",
             "% of suburb": "N/A",
             "Victoria": "370",
             "% of state": "N/A",
@@ -1809,7 +1809,7 @@
             "% of country": "N/A"
         },
         "": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -1817,24 +1817,24 @@
             "% of country": ""
         },
         "Renter households where rent payments are less than or equal to 30% of household income (b)": {
-            "Mitcham (Vic.)": "1,201",
-            "% of suburb": "67.7",
+            "Berwick - North": "916",
+            "% of suburb": "59.8",
             "Victoria": "413,492",
             "% of state": "60.7",
             "Australia": "1,667,080",
             "% of country": "58.7"
         },
         "Renter households with rent payments greater than 30% of household income (b)": {
-            "Mitcham (Vic.)": "459",
-            "% of suburb": "25.9",
+            "Berwick - North": "480",
+            "% of suburb": "31.3",
             "Victoria": "210,437",
             "% of state": "30.9",
             "Australia": "915,317",
             "% of country": "32.2"
         },
         "Unable to determine (c)": {
-            "Mitcham (Vic.)": "117",
-            "% of suburb": "6.6",
+            "Berwick - North": "134",
+            "% of suburb": "8.7",
             "Victoria": "57,493",
             "% of state": "8.4",
             "Australia": "259,992",
@@ -1843,7 +1843,7 @@
     },
     "Mortgage monthly repayments": {
         "Median mortgage repayments": {
-            "Mitcham (Vic.)": "2,167",
+            "Berwick - North": "2,000",
             "% of suburb": "N/A",
             "Victoria": "1,859",
             "% of state": "N/A",
@@ -1851,7 +1851,7 @@
             "% of country": "N/A"
         },
         "": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -1859,24 +1859,24 @@
             "% of country": ""
         },
         "Owner with mortgage households where mortgage repayments are less than or equal to 30% of household income (a)": {
-            "Mitcham (Vic.)": "1,798",
-            "% of suburb": "77.5",
+            "Berwick - North": "2,445",
+            "% of suburb": "75.6",
             "Victoria": "637,758",
             "% of state": "73.9",
             "Australia": "2,398,902",
             "% of country": "74.0"
         },
         "Owner with mortgage households with mortgage repayments greater than 30% of household income (a)": {
-            "Mitcham (Vic.)": "341",
-            "% of suburb": "14.7",
+            "Berwick - North": "418",
+            "% of suburb": "12.9",
             "Victoria": "133,287",
             "% of state": "15.5",
             "Australia": "468,817",
             "% of country": "14.5"
         },
         "Unable to determine (b)": {
-            "Mitcham (Vic.)": "181",
-            "% of suburb": "7.8",
+            "Berwick - North": "372",
+            "% of suburb": "11.5",
             "Victoria": "91,606",
             "% of state": "10.6",
             "Australia": "374,734",
@@ -1885,23 +1885,23 @@
     },
     "People characteristics": {
         "Male": {
-            "Mitcham (Vic.)": "24",
-            "% of suburb": "38.1",
+            "Berwick - North": "51",
+            "% of suburb": "55.4",
             "Victoria": "32,862",
             "% of state": "50.1",
             "Australia": "403,709",
             "% of country": "49.7"
         },
         "Female": {
-            "Mitcham (Vic.)": "39",
-            "% of suburb": "61.9",
+            "Berwick - North": "41",
+            "% of suburb": "44.6",
             "Victoria": "32,782",
             "% of state": "49.9",
             "Australia": "409,025",
             "% of country": "50.3"
         },
         "": {
-            "Mitcham (Vic.)": "",
+            "Berwick - North": "",
             "% of suburb": "",
             "Victoria": "",
             "% of state": "",
@@ -1909,7 +1909,7 @@
             "% of country": ""
         },
         "Median age": {
-            "Mitcham (Vic.)": "20",
+            "Berwick - North": "24",
             "% of suburb": "N/A",
             "Victoria": "24",
             "% of state": "N/A",
@@ -1919,7 +1919,7 @@
     },
     "Dwelling characteristics": {
         "Average number of people per household": {
-            "Mitcham (Vic.)": "3",
+            "Berwick - North": "3.3",
             "% of suburb": "N/A",
             "Victoria": "3",
             "% of state": "N/A",
@@ -1927,7 +1927,7 @@
             "% of country": "N/A"
         },
         "Average number of people per bedroom": {
-            "Mitcham (Vic.)": "1",
+            "Berwick - North": "0.9",
             "% of suburb": "N/A",
             "Victoria": "0.9",
             "% of state": "N/A",
@@ -1935,7 +1935,7 @@
             "% of country": "N/A"
         },
         "Median weekly household income (a)": {
-            "Mitcham (Vic.)": "1,718",
+            "Berwick - North": "2,049",
             "% of suburb": "N/A",
             "Victoria": "1,565",
             "% of state": "N/A",
@@ -1945,7 +1945,7 @@
     },
     "Mortgage and rent": {
         "Median weekly rent (a)": {
-            "Mitcham (Vic.)": "391",
+            "Berwick - North": "381",
             "% of suburb": "N/A",
             "Victoria": "330",
             "% of state": "N/A",
@@ -1953,7 +1953,7 @@
             "% of country": "N/A"
         },
         "Median monthly mortgage repayments": {
-            "Mitcham (Vic.)": "1,972",
+            "Berwick - North": "2,364",
             "% of suburb": "N/A",
             "Victoria": "1,600",
             "% of state": "N/A",

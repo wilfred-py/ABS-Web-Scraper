@@ -2,18 +2,15 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-
+# Need to find all area_codes on ABS website
 area_code = 211041270
-
-# Empty dictionary to store JSON objects
-json_data = {}
 
 # ABS URL
 abs_url = "https://www.abs.gov.au/census/find-census-data/quickstats/2021/211041270"
-# abs_url_2 = "https://www.abs.gov.au/census/find-census-data/quickstats/2021/212021293"
+abs_url_2 = "https://www.abs.gov.au/census/find-census-data/quickstats/2021/212021293"
 
 # Send HTTP GET request to the URL
-response = requests.get(abs_url)
+response = requests.get(abs_url_2)
 
 # Parse the HTML content using BS
 soup = BeautifulSoup(response.content, "html.parser")
@@ -61,8 +58,6 @@ for table in summary_tables:
 with open(f"summary_data_{suburb}.json", "w") as f:
     json.dump(summary_table_dict, f)
 
-
-############################################################
 
 ##################### MAIN TABLES #####################
 
@@ -112,25 +107,23 @@ for table in main_tables:
         td_stripped = td_split_two[0].strip()
         data_list.append(td_stripped)
     data_list_length = len(data_list)
-    print(
-        f"TABLE NAME: {table_name_stripped} \n ROW NAMES: {row_name_list} \n NUMBER OF ROWS: {num_table_rows} \n LENGTH OF DATA LIST: {data_list_length} \n data : {data_list} \n\n\n"
-    )
 
     # Create dictionary
     nested_dict = {}
     nested_dict[table_name_stripped] = {}
+    data_index = 0
     for row_name in row_name_list:
         nested_dict[table_name_stripped][row_name] = {
-            suburb: "1",
-            "% of suburb": "2",
-            state: "3",
-            "% of state": "4",
-            "Australia": "5",
-            "% of country": "6",
+            suburb: data_list[data_index],
+            "% of suburb": data_list[data_index + 1],
+            state: data_list[data_index + 2],
+            "% of state": data_list[data_index + 3],
+            "Australia": data_list[data_index + 4],
+            "% of country": data_list[data_index + 5],
         }
-    main_table_dict.update(nested_dict)
+        data_index += 6
 
-    print("\n\n\n********* NEXT TABLE ********* \n\n\n")
+    main_table_dict.update(nested_dict)
 
 
 # Create main_data_suburb.json
